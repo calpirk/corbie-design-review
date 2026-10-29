@@ -1,0 +1,202 @@
+{
+  "data": {
+    "id": 83460,
+    "accession_number": "2020.178",
+    "share_license_status": "CC0",
+    "tombstone": "Pair of Owl-shaped Jars, 206 BCE\u20139 CE. China, Henan province, Western Han dynasty (206 BCE\u20138 CE). Amber-brown glazed low-fired pottery; overall: 19 x 13.8 x 11.8 cm (7 1/2 x 5 7/16 x 4 5/8 in.). The Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift, 2020.178",
+    "current_location": "241B Arts of Ancient China",
+    "title": "Pair of Owl-shaped Jars",
+    "creation_date": "206 BCE\u20139 CE",
+    "creation_date_earliest": -206,
+    "creation_date_latest": 9,
+    "artists_tags": [],
+    "culture": [
+      "China, Henan province, Western Han dynasty (206 BCE\u20138 CE)"
+    ],
+    "technique": "Amber-brown glazed low-fired pottery",
+    "support_materials": [],
+    "department": "Chinese Art",
+    "collection": "China - Han Dynasty",
+    "type": "Ceramic",
+    "measurements": "Overall: 19 x 13.8 x 11.8 cm (7 1/2 x 5 7/16 x 4 5/8 in.)",
+    "dimensions": {
+      "overall": {
+        "height": 0.19,
+        "height_inch": 7,
+        "height_inch_fraction": 0.5,
+        "width": 0.138,
+        "width_inch": 5,
+        "width_inch_fraction": 0.4375,
+        "depth": 0.118,
+        "depth_inch": 4,
+        "depth_inch_fraction": 0.625
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 396695,
+          "title": "Impressionism to Modernism: The Keithley Collection",
+          "description": "<i>Impressionism to Modernism: The Keithley Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 11, 2022-January 8, 2023).",
+          "opening_date": "2022-09-11T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Purchased by the parents of Yves Bonan, by descent to Yves Bonan, Venice, Italy",
+        "citations": [],
+        "footnotes": null,
+        "date": "1970s\u20132008",
+        "sortorder": 1
+      },
+      {
+        "description": "(K.Y. Fine Art, Hong Kong, sold to Mr. and Mrs. Joseph P. Keithley)",
+        "citations": [],
+        "footnotes": null,
+        "date": "2008",
+        "sortorder": 2
+      },
+      {
+        "description": "Nancy F. and Joseph P. Keithley, Cleveland, OH, given to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "2008\u20132020",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2020\u2013",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Each jar cover is modeled in the shape of an owl's head.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "Pottery vessels in the shape of owls were made since Neolithic times and throughout the Bronze age. These jars in the form of vigilant owls may have provided a tomb occupant with grain in the afterlife. However, the meaning of these mysterious birds and the association of the owl motif with burial sites in China is not fully understood.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q87480853"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-2020.178-pair-of-owl-shaped-l",
+        "https://archive.org/details/clevelandart-2020.178-pair-of-owl-shaped-j"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Von Spee, Clarissa. \"Chinese Ceramics and Works on Paper.\" In <em>The Keithley Collection at the Cleveland Museum of Art, </em>edited by Heather Lemonedes Brown, 194\u2013229. Cleveland, OH: The Cleveland Museum of Art, 2022.",
+        "page_number": "Mentioned and Reproduced: pp. 194\u2013195; Mentioned: pp. 259\u2013261",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2020.178",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_web.jpg",
+        "width": "900",
+        "height": "683",
+        "filesize": "186883",
+        "filename": "2020.178_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_print.jpg",
+        "width": "3400",
+        "height": "2579",
+        "filesize": "1189731",
+        "filename": "2020.178_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_full.tif",
+        "width": "7482",
+        "height": "5675",
+        "filesize": "127406616",
+        "filename": "2020.178_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt0_web.jpg",
+          "width": "900",
+          "height": "448",
+          "filesize": "137084"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt0_print.jpg",
+          "width": "3400",
+          "height": "1694",
+          "filesize": "942755"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt0_full.tif",
+          "width": "12969",
+          "height": "6461",
+          "filesize": "251401984"
+        },
+        "date_created": "2020-02-21T16:01:29",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt1_web.jpg",
+          "width": "900",
+          "height": "597",
+          "filesize": "148091"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt1_print.jpg",
+          "width": "3400",
+          "height": "2257",
+          "filesize": "1385200"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2020.178/2020.178_alt1_full.tif",
+          "width": "9633",
+          "height": "6395",
+          "filesize": "184833156"
+        },
+        "date_created": "2020-02-21T16:03:43",
+        "annotation": ""
+      }
+    ],
+    "creditline": "Nancy F. and Joseph P. Keithley Collection Gift",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 83460,
+    "creators": [],
+    "legal_status": "accessioned",
+    "accession_date": "2020-03-02T00:00:00-05:00",
+    "sortable_date": -206,
+    "date_added_to_oa": null,
+    "date_text": "206 BCE\u20139 CE",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "cover",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Pair of Lead Glazed Jars",
+      "Pair of Owl-shaped Lead Glazed Jars"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-06-11 12:17:39.242000"
+  }
+}

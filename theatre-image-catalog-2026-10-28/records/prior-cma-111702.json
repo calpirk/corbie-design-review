@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 111702,
+    "accession_number": "1930.23",
+    "share_license_status": "CC0",
+    "tombstone": "Capriccio: A Palace with a Courtyard by the Lagoon, c. 1750\u201355. Antonio Canaletto (Italian, 1697\u20131768). Pen and brown ink and brush and gray and black washes over traces of graphite (?); framing lines in pen and brown and black ink; sheet: 26.9 x 42.1 cm (10 9/16 x 16 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1930.23",
+    "current_location": null,
+    "title": "Capriccio: A Palace with a Courtyard by the Lagoon",
+    "creation_date": "c. 1750\u201355",
+    "creation_date_earliest": 1750,
+    "creation_date_latest": 1755,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Italy, Venice"
+    ],
+    "technique": "pen and brown ink and brush and gray and black washes over traces of graphite (?); framing lines in pen and brown and black ink",
+    "support_materials": [
+      {
+        "description": "cream(1) laid paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - Italian",
+    "type": "Drawing",
+    "measurements": "Sheet: 26.9 x 42.1 cm (10 9/16 x 16 9/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.269,
+        "height_inch": 10,
+        "height_inch_fraction": 0.5625,
+        "width": 0.421,
+        "width_inch": 16,
+        "width_inch_fraction": 0.5625
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 361226,
+          "title": "Antonio Canaletto: 1697-1768",
+          "description": "<i>Antonio Canaletto: 1697-1768</i>. Smith College Museum of Art, Northampton, MA (organizer).",
+          "opening_date": null
+        },
+        {
+          "id": 350090,
+          "title": "Drawings in the Classic and Romantic Tradition before 1830",
+          "description": "<i>Drawings in the Classic and Romantic Tradition before 1830</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 1932-January 8, 1933).",
+          "opening_date": "1932-12-07T05:00:00"
+        },
+        {
+          "id": 346817,
+          "title": "Art of the Seventeenth and Eighteenth Centuries",
+          "description": "<i>Art of the Seventeenth and Eighteenth Centuries</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 9-December 2, 1934).",
+          "opening_date": "1934-11-09T05:00:00"
+        },
+        {
+          "id": 361222,
+          "title": "Fourth Anniversary Exhibition: Six Centuries of Drawings",
+          "description": "<i>Fourth Anniversary Exhibition: Six Centuries of Drawings</i>. Lyman Allyn Art Museum, New London, CT (organizer) (March 2-April 15, 1936).",
+          "opening_date": "1936-03-02T05:00:00"
+        },
+        {
+          "id": 361223,
+          "title": "Tiepolo and His Contemporaries",
+          "description": "<i>Tiepolo and His Contemporaries</i>. The Metropolitan Museum of Art, New York, NY (organizer) (March 14-April 24, 1938).",
+          "opening_date": "1938-03-14T05:00:00"
+        },
+        {
+          "id": 346109,
+          "title": "Old Master Drawings from the Museum Collection",
+          "description": "<i>Old Master Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 4-March 26, 1939).",
+          "opening_date": "1939-01-04T05:00:00"
+        },
+        {
+          "id": 361224,
+          "title": "Exhibition of Eighteenth-Century Italian Landscape Painting and Its Influence in England",
+          "description": "<i>Exhibition of Eighteenth-Century Italian Landscape Painting and Its Influence in England</i>. Yale University Art Gallery, New Haven, CT (organizer) (January 18-February 25, 1940).",
+          "opening_date": "1940-01-18T05:00:00"
+        },
+        {
+          "id": 347295,
+          "title": "Drawings by Old Italian Masters",
+          "description": "<i>Drawings by Old Italian Masters</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 5, 1940-February 25, 1941).",
+          "opening_date": "1940-06-05T04:00:00"
+        },
+        {
+          "id": 347343,
+          "title": "Drawings from the Museum Collection",
+          "description": "<i>Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-April 27, 1941).",
+          "opening_date": "1941-03-04T05:00:00"
+        },
+        {
+          "id": 312341,
+          "title": "The Silver Jubilee Exhibition",
+          "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+          "opening_date": "1941-06-23T04:00:00"
+        },
+        {
+          "id": 356654,
+          "title": "Italian Drawings, 1330-1780",
+          "description": "<i>Italian Drawings, 1330-1780</i>. Smith College Museum of Art, Northampton, MA (organizer) (December 1-20, 1941).",
+          "opening_date": "1941-12-01T05:00:00"
+        },
+        {
+          "id": 347490,
+          "title": "Drawings from the Museum Collection",
+          "description": "<i>Drawings from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 17-August 24, 1942).",
+          "opening_date": "1942-06-17T04:00:00"
+        },
+        {
+          "id": 361225,
+          "title": "Topographical Viewpoint",
+          "description": "<i>Topographical Viewpoint</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30-December 18, 1945).",
+          "opening_date": "1945-10-30T05:00:00"
+        },
+        {
+          "id": 311919,
+          "title": "Views of Venice",
+          "description": "<i>Views of Venice</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 11-April 26, 1953).",
+          "opening_date": "1953-03-11T04:00:00"
+        },
+        {
+          "id": 301184,
+          "title": "Department of Prints and Drawings Opening Exhibition",
+          "description": "<i>Department of Prints and Drawings Opening Exhibition</i>. The Cleveland Museum of Art (organizer) (March 3, 1958-October 11, 1959).",
+          "opening_date": "1958-03-03T05:00:00"
+        },
+        {
+          "id": 301678,
+          "title": "Italian and French Drawings",
+          "description": "<i>Italian and French Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 13, 1959-February 2, 1960).",
+          "opening_date": "1959-10-13T04:00:00"
+        },
+        {
+          "id": 361227,
+          "title": "Canaletto and Bellotto",
+          "description": "<i>Canaletto and Bellotto</i>. Berkshire Museum, Pittsfield, MA (organizer) (August 2-31, 1960).",
+          "opening_date": "1960-08-02T04:00:00"
+        },
+        {
+          "id": 304645,
+          "title": "Drawings",
+          "description": "<i>Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 11-September 10, 1963).",
+          "opening_date": "1963-01-11T05:00:00"
+        },
+        {
+          "id": 520372,
+          "title": "Eighteenth-Century Venetian Drawings From Correr Museum",
+          "description": "<i>Eighteenth-Century Venetian Drawings From Correr Museum</i>. Los Angeles County Museum of Art, Los Angeles, CA (organizer) (January 21-February 16, 1964).",
+          "opening_date": "1964-01-21T05:00:00"
+        },
+        {
+          "id": 361228,
+          "title": "Canaletto",
+          "description": "<i>Canaletto</i>. Art Gallery of Ontario (organizer) (October 17-November 15, 1964); National Gallery of Canada, Ottawa, Ont.,, Canada (December 4, 1964-January 10, 1965); Montr\u00e9al Museum of Fine Arts (January 29-February 28, 1965).",
+          "opening_date": "1964-10-17T04:00:00"
+        },
+        {
+          "id": 350269,
+          "title": "Prints and Drawings from the Cleveland Museum of Art Collection",
+          "description": "<i>Prints and Drawings from the Cleveland Museum of Art Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (May 6-September 9, 1965).",
+          "opening_date": "1965-05-06T04:00:00"
+        },
+        {
+          "id": 351103,
+          "title": "Italian Prints and Drawings",
+          "description": "<i>Italian Prints and Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 30-March 26, 1968).",
+          "opening_date": "1968-01-30T05:00:00"
+        },
+        {
+          "id": 351191,
+          "title": "Drawings",
+          "description": "<i>Drawings</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 11-October 21, 1968).",
+          "opening_date": "1968-06-11T04:00:00"
+        },
+        {
+          "id": 442392,
+          "title": "33 Etchings and Related Works of Canaletto",
+          "description": "<i>33 Etchings and Related Works of Canaletto</i>. Santa Barbara Museum of Art, Santa Barbara, CA (organizer) (March 31-May 21, 1979).",
+          "opening_date": "1979-03-31T05:00:00"
+        },
+        {
+          "id": 309878,
+          "title": "Venice as City and Theater",
+          "description": "<i>Venice as City and Theater</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 27-April 21, 1985).",
+          "opening_date": "1985-02-27T05:00:00"
+        },
+        {
+          "id": 311444,
+          "title": "Object Lessons: Cleveland Creates an Art Museum",
+          "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+          "opening_date": "1991-06-07T04:00:00"
+        },
+        {
+          "id": 192019,
+          "title": "Master Drawings from the Cleveland Museum of Art",
+          "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000); The Morgan Library & Museum, New York, NY (May 23-August 19, 2001); Museum of Fine Arts, Houston, Houston, TX (October 14, 2001-January 6, 2002).",
+          "opening_date": "2000-08-27T00:00:00"
+        },
+        {
+          "id": 204986,
+          "title": "Treasures on Paper from the Collection of the Cleveland Museum of Art",
+          "description": "<i>Treasures on Paper from the Collection of the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 9-June 8, 2014).",
+          "opening_date": "2014-03-09T00:00:00"
+        },
+        {
+          "id": 665048,
+          "title": "Imagination in the Age of Reason",
+          "description": "<i>Imagination in the Age of Reason</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 28, 2024-March 2, 2025).",
+          "opening_date": "2024-09-28T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "(Obach & Co. (est. 1884), London, sold to Dr. Guy Bellingham Smith.)",
+        "citations": [],
+        "footnotes": [],
+        "date": "?-?",
+        "sortorder": 1
+      },
+      {
+        "description": "Dr. Guy Bellingham Smith [1856-?], London, UK.",
+        "citations": [],
+        "footnotes": [],
+        "date": "before 1911-1927",
+        "sortorder": 2
+      },
+      {
+        "description": "(Frederik Muller & Co., Amsterdam, sold July 6, 1927, cat. no. 9.)",
+        "citations": [],
+        "footnotes": [],
+        "date": "1927",
+        "sortorder": 3
+      },
+      {
+        "description": "(Thomas Agnew and Sons (est. 1817), Ltd., London, UK, sold to The Cleveland Museum of Art, Jan. 1930.)",
+        "citations": [],
+        "footnotes": [],
+        "date": "possibly 1927-1930",
+        "sortorder": 4
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH.",
+        "citations": [],
+        "footnotes": null,
+        "date": "1930-",
+        "sortorder": 5
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "The round building in the distance, across the lagoon, is reminiscent of the Pantheon\u2014a former Roman temple located in Rome.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "Privileged young Europeans embarking on the Grand Tour during the 1700s invariably visited Venice, where they purchased paintings, prints, and drawings to commemorate their trip. Canaletto\u2019s <em>vedute </em>(view paintings) were particularly desirable as mementos of the city. This drawing is a <em>capriccio</em>\u2014an artistic fantasy of architecture and landscape. Canaletto often referred to actual buildings in his capricci, manipulating and combining them to create his invented views. The palatial structure in this composition appropriates the neo-Palladian portal to the Palazzo Tasca in Venice; however, the lagoon, peasant figures, and architectural details are artifice. Traces of Canaletto\u2019s graphite underdrawing are visible in the cloudy sky, as are the black chalk lines he carefully ruled in before delineating the building with pen and brush. The brown ink outlines of the composition contrast with Canaletto\u2019s tints of transparent gray wash, which animate the drawing through their effect of flickering sunlight. Though three large, painted capricci paintings share compositional elements with this drawing, it is unclear whether it is a preliminary study, or an independent work of art.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q80004138"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1930.23-capriccio-a-palace-w"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Hadeln, Detlev von. <em>The Drawings of Antonio Canal, called Canaletto. </em>London: Duckworth, 1929.",
+        "page_number": "Mentioned: p. 14",
+        "url": null
+      },
+      {
+        "citation": "H. S. F. \"A Wash Drawing by Canaletto.\" <em>The Bulletin of the Cleveland Museum of Art</em> 20, no. 2 (1933): 23-31.",
+        "page_number": "Mentioned and Reproduced: pp. 23-26",
+        "url": null
+      },
+      {
+        "citation": "Ames, Winslow. \u201cNotes on Drawings: Antonio Canal, Called Canaletto.\u201d  <em>Old Master Drawings</em> 12, no. 48 (March 1938).",
+        "page_number": "Mentioned and Reproduced: pp. 53-54, plate 56",
+        "url": null
+      },
+      {
+        "citation": "The Metropolitan Museum of Art. <em>Tiepolo and His Contemporaries</em>. New York: The Metropolitan Museum of Art, 1938.",
+        "page_number": "Mentioned and Reproduced: no. 57",
+        "url": null
+      },
+      {
+        "citation": "Yale University Gallery of Fine Arts. <em>Exhibition of Eighteenth Century Italian Landscape Painting and its Influence in England. </em>New Haven, CT: Gallery of Fine Arts, Yale University, 1940.",
+        "page_number": "Mentioned and Reproduced: no. 11, plate 11",
+        "url": null
+      },
+      {
+        "citation": "Smith College Museum of Art. <em>Italian Drawings 1330-1780</em>. Northampton, MA: Smith College Museum of Art, 1941.",
+        "page_number": "Mentioned: no. 10",
+        "url": null
+      },
+      {
+        "citation": "Benesch, Otto. <em>Venetian Drawings of the Eighteenth Century in America</em>. New York: H. Bittner, 1947.",
+        "page_number": "Mentioned and Reproduced: pp. 36-37 under no. 49, plate 49",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+        "page_number": "Mentioned and Reproduced: cat. no. 576",
+        "url": "https://archive.org/details/CMAHandbook1958/page/n108"
+      },
+      {
+        "citation": "The Berkshire Museum. <em>Canaletto and Bellotto (August 2- 31, 1960)</em>. Pittsfield, MA: The Berkshire Museum, 1960.",
+        "page_number": "Mentioned: no. 15",
+        "url": null
+      },
+      {
+        "citation": "Constable, W.G. <em>Canaletto, Giovanni Antonio Canal</em>. Oxford: The Clarendon Press, 1962.",
+        "page_number": "Mentioned and Reproduced: p. 426 under nos. 502, 504, p. 557 no. 819, plate 154",
+        "url": null
+      },
+      {
+        "citation": "Constable, W. G. <em>Canaletto:</em> <em>Giovanni Antonio Canal, 1697-1768</em>: Ex. Cat. Toronto: Art Gallery of Toronto, 1964.",
+        "page_number": "Mentioned and Reproduced: p. 133, no. 110",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+        "page_number": "Reproduced: p. 147",
+        "url": "https://archive.org/details/CMAHandbook1966/page/n171"
+      },
+      {
+        "citation": "Puppi, Lionello. <em>The Complete Paintings of Canaletto</em>. New York: Harry N. Abrams, Inc., 1968.",
+        "page_number": "Mentioned: p. 118 under no. 310",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+        "page_number": "Reproduced: p. 147",
+        "url": "https://archive.org/details/CMAHandbook1969/page/n171"
+      },
+      {
+        "citation": "Pignatti, Terisio. <em>Venetian Drawings from American Collections.</em> Washington, DC: International Exhibitions Foundation, 1974.",
+        "page_number": "Mentioned: p. 48 under no. 100",
+        "url": null
+      },
+      {
+        "citation": "Constable, W.G. and J.G. Links. <em>Canaletto, Giovanni Antonio Canal 1697-1768</em>, vol 2. Oxford: Clarendon Press, 1976.",
+        "page_number": "Mentioned: pp. 606- 607, no. 819",
+        "url": null
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 147",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n167"
+      },
+      {
+        "citation": "Wallen, Burr. <em>The William A. Gumberts Collection of Canaletto Etchings</em>. Santa Barbara, CA: The Santa Barbara Museum of Art, 1979.",
+        "page_number": "Mentioned and Reproduced: pp. 28-29, fig.11.",
+        "url": null
+      },
+      {
+        "citation": "Pignatti, Terisio. <em>Disegni Antichi del Museo Correr di Venezia</em>, vol 1. Venice: Neri Pozza, 1980.",
+        "page_number": "Mentioned: p. 35",
+        "url": null
+      },
+      {
+        "citation": "Corboz, Andre. <em>Canaletto: Una Venezia immaginaria, </em>vol. 1. Milan: Alfiera Electa, 1985.",
+        "page_number": "Mentioned: pp. 119-120, 283, 286, 288, 291, 306, 311, 350, 356, 359, 360, 364, 438, 461, 466, 737 D133; Reproduced: p. 120 fig. 26",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Treasures on Paper</em>: The Cleveland Museum of Art. Cleveland, Ohio: The Cleveland Museum of Art, 1988.",
+        "page_number": null,
+        "url": null
+      },
+      {
+        "citation": "Constable, W.G. and J.G. Links. <em>Canaletto</em>, <em>Giovanni Antonio Canal 1697-1768</em>, vol 2. Oxford: Clarendon Press, 1989.",
+        "page_number": "Mentioned: p. 463 under no. 502, p. 464 under no. 504, p. 606-607 no. 819; Reproduced: Plate 154 no. 819.",
+        "url": null
+      },
+      {
+        "citation": "Baetjer, Katherine and J.G. Links. <em>Canaletto.</em> New York: The Metropolitan Museum of Art, 1989.",
+        "page_number": "Mentioned: p. 267 under no. 80",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>Masterpieces from East and West</em>. New York, NY: Rizzoli International, 1992.",
+        "page_number": "Reproduced: p. 124",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art, Diane DeGrazia, and Carter E. Foster. <em>Master Drawings from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art in association with Rizzoli International Publications, New York, 2000.",
+        "page_number": "Mentioned and Reproduced: cat. no. 23, pp. 4, 66-67, 286",
+        "url": null
+      },
+      {
+        "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+        "page_number": "Mentioned and reproduced: P. 158",
+        "url": ""
+      },
+      {
+        "citation": "Glaubinger, Jane and Lemonedes, Heather. \u201cTreasures on Paper: The Cr\u00e8me de la cr\u00e8me of the museum\u2019s prints and drawings collection is now on view.\u201d <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 54, no. 2 (March/April 2014): 6-9.",
+        "page_number": "Mentioned: p. 8",
+        "url": "https://archive.org/details/CMAMM2014-02"
+      }
+    ],
+    "catalogue_raisonne": "Von Halden 14; Constable-Links 819",
+    "url": "https://clevelandart.org/art/1930.23",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_web.jpg",
+        "width": "1263",
+        "height": "812",
+        "filesize": "237433",
+        "filename": "1930.23_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_print.jpg",
+        "width": "3400",
+        "height": "2186",
+        "filesize": "1866051",
+        "filename": "1930.23_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_full.tif",
+        "width": "7459",
+        "height": "4796",
+        "filesize": "107342148",
+        "filename": "1930.23_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_alt0_web.jpg",
+          "width": "1263",
+          "height": "804",
+          "filesize": "886716"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_alt0_print.jpg",
+          "width": "2048",
+          "height": "1303",
+          "filesize": "2345594"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.23/1930.23_alt0_full.tif",
+          "width": "2048",
+          "height": "1303",
+          "filesize": "8008420"
+        },
+        "annotation": ""
+      }
+    ],
+    "creditline": "Purchase from the J. H. Wade Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 111702,
+    "creators": [
+      {
+        "id": 11939,
+        "description": "Antonio Canaletto (Italian, 1697\u20131768)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1697",
+        "death_year": "1768",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1930-01-14T00:00:00",
+    "sortable_date": 1750,
+    "date_added_to_oa": null,
+    "date_text": "c. 1750\u201355",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Imaginary View of a Palace on the Shore of the Lagoon",
+      "The Villa Contarini"
+    ],
+    "is_highlight": false,
+    "updated_at": "2026-05-29 05:54:57.099000"
+  }
+}

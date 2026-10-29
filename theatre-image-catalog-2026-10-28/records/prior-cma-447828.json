@@ -1,0 +1,322 @@
+{
+  "data": {
+    "id": 447828,
+    "accession_number": "2022.149",
+    "share_license_status": "CC0",
+    "tombstone": "Box with Butterfly, 1855\u201357. Seif\u016b Yohei I (Japanese, 1801\u20131861). Porcelain with underglaze blue; height: 10 cm (3 15/16 in.); length: 11 cm (4 5/16 in.); width: 11 cm (4 5/16 in.). The Cleveland Museum of Art, Gift of James and Christine Heusinger, 2022.149",
+    "current_location": null,
+    "title": "Box with Butterfly",
+    "creation_date": "1855\u201357",
+    "creation_date_earliest": 1855,
+    "creation_date_latest": 1857,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Japan, Meiji period (1868\u20131912)"
+    ],
+    "technique": "Porcelain with underglaze blue",
+    "support_materials": [],
+    "department": "Japanese Art",
+    "collection": "Japanese Art",
+    "type": "Ceramic",
+    "measurements": "height: 10 cm (3 15/16 in.); length: 11 cm (4 5/16 in.); width: 11 cm (4 5/16 in.)",
+    "dimensions": {
+      "height": {
+        "height": 0.1,
+        "height_inch": 3,
+        "height_inch_fraction": 0.9375
+      },
+      "length": {
+        "length": 0.11,
+        "length_inch": 4,
+        "length_inch_fraction": 0.3125
+      },
+      "width": {
+        "width": 0.11,
+        "width_inch": 4,
+        "width_inch_fraction": 0.3125
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "\u6e05\u98a8",
+        "inscription_translation": "\u201cSeif\u016b\u201d inscribed on the base",
+        "inscription_remark": null,
+        "sortorder": 1
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 448212,
+          "title": "Colors of Kyoto: The Seif\u016b Yohei Ceramic Studio",
+          "description": "<i>Colors of Kyoto: The Seif\u016b Yohei Ceramic Studio</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 19, 2023-March 10, 2024).",
+          "opening_date": "2023-08-19T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "James and Christine Heusinger, Berea, OH, given to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "?\u20132022",
+        "sortorder": 1
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "2022\u2013",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "It is possible that the model for this box was a smaller lidded box meant for storing incense.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "This sturdy box, with comparatively thick walls and resulting heft, is sparsely decorated with a single butterfly motif in dark underglaze blue cobalt in one corner of the lid and with repeating floral patterns along the lid and base. Single broken lines of underglaze blue define the edge of the box lid\u2019s top where it curves to meet the sides and again where it meets the base of the box. Another blue band runs around the upper rim of the base where it meets the lip, left unglazed for a better grip of the lid when the box is closed. Yohei I\u2019s signature on the center of the recessed base is set within a wide blue square. <br><br>The porcelain box is meant to call to mind a famous story attributed to Zhuang Zhou (c. 369\u2013286 BCE), also known as Master Zhuang, or Zhuangzi, pronounced Soji in Japanese. The second chapter of <em>Zhuangzi</em>, his eponymous collection of anecdotes, records the story as follows: <br><br>Once, Zhuang Zhou dreamt he was a butterfly, a butterfly flitting and fluttering about, happy with himself and doing as he pleased. He didn\u2019t know that he was Zhuang Zhou. Suddenly, he woke up and there he was, solid and unmistakable Zhuang Zhou. But he didn\u2019t know if he was Zhuang Zhou who had dreamt he was a butterfly, or a butterfly dreaming that he was Zhuang Zhou. Between Zhuang Zhou and the butterfly there must be some distinction! This is called the Transformation of Things. <br><br>The lidded box resembles <em>kosometsuke</em>, the porcelains in underglaze blue made to order or on speculation for the Japanese market during the early to mid-1600s in Jingdezhen, China. These works were often made from designs submitted by Japanese clients, many of whom were masters of <em>chanoyu</em>, who sought the wares for their tea practice. The relative roughness of the clay and the distortions in the fired object were intentional, as they created the rustic effect desired by Japanese tea communities.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q117706850"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-2022.149-box-with-butterfly"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Maezaki, Shinya and Sin\u00e9ad Vilbar. <em>Colors of Kyoto: The Seif\u016b Yohei Ceramic Studio</em>. Cleveland, OH: The Cleveland Museum of Art, 2023.",
+        "page_number": "Mentioned and Reproduced: Cat. No. 2, pp. 64\u201365",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2022.149",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_web.jpg",
+        "width": "900",
+        "height": "708",
+        "filesize": "157046",
+        "filename": "2022.149_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_print.jpg",
+        "width": "3400",
+        "height": "2675",
+        "filesize": "854581",
+        "filename": "2022.149_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_full.tif",
+        "width": "9933",
+        "height": "7816",
+        "filesize": "232937008",
+        "filename": "2022.149_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt0_web.jpg",
+          "width": "900",
+          "height": "707",
+          "filesize": "146966"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt0_print.jpg",
+          "width": "3400",
+          "height": "2670",
+          "filesize": "810269"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt0_full.tif",
+          "width": "9933",
+          "height": "7800",
+          "filesize": "232459884"
+        },
+        "date_created": "2022-10-12T16:25:54",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt1_web.jpg",
+          "width": "900",
+          "height": "706",
+          "filesize": "149822"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt1_print.jpg",
+          "width": "3400",
+          "height": "2667",
+          "filesize": "851273"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt1_full.tif",
+          "width": "9933",
+          "height": "7791",
+          "filesize": "232191616"
+        },
+        "date_created": "2022-10-12T16:30:00",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt2_web.jpg",
+          "width": "900",
+          "height": "707",
+          "filesize": "147002"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt2_print.jpg",
+          "width": "3400",
+          "height": "2669",
+          "filesize": "821135"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt2_full.tif",
+          "width": "9933",
+          "height": "7798",
+          "filesize": "232400244"
+        },
+        "date_created": "2022-10-12T16:33:59",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt3_web.jpg",
+          "width": "900",
+          "height": "710",
+          "filesize": "149259"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt3_print.jpg",
+          "width": "3400",
+          "height": "2683",
+          "filesize": "839152"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt3_full.tif",
+          "width": "9933",
+          "height": "7839",
+          "filesize": "233622024"
+        },
+        "date_created": "2022-10-12T16:38:18",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt4_web.jpg",
+          "width": "900",
+          "height": "758",
+          "filesize": "177121"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt4_print.jpg",
+          "width": "3400",
+          "height": "2863",
+          "filesize": "1504694"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt4_full.tif",
+          "width": "9156",
+          "height": "7709",
+          "filesize": "211778336"
+        },
+        "date_created": "2022-10-12T22:04:21",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt5_web.jpg",
+          "width": "900",
+          "height": "862",
+          "filesize": "243721"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt5_print.jpg",
+          "width": "3400",
+          "height": "3255",
+          "filesize": "2522050"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt5_full.tif",
+          "width": "7915",
+          "height": "7577",
+          "filesize": "179943920"
+        },
+        "date_created": "2022-10-12T22:11:38",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt6_web.jpg",
+          "width": "900",
+          "height": "885",
+          "filesize": "262033"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt6_print.jpg",
+          "width": "3400",
+          "height": "3343",
+          "filesize": "3002836"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2022.149/2022.149_alt6_full.tif",
+          "width": "7837",
+          "height": "7706",
+          "filesize": "181204136"
+        },
+        "date_created": "2022-10-12T22:15:06",
+        "annotation": ""
+      }
+    ],
+    "creditline": "Gift of James and Christine Heusinger",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 447828,
+    "creators": [
+      {
+        "id": 446644,
+        "description": "Seif\u016b Yohei I (Japanese, 1801\u20131861)",
+        "extent": null,
+        "qualifier": null,
+        "role": null,
+        "biography": null,
+        "name_in_original_language": "\u521d\u4ee3\u6e05\u98a8\u4e0e\u5e73",
+        "birth_year": "1801",
+        "death_year": "1861",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2022-12-05T05:00:00Z",
+    "sortable_date": 1855,
+    "date_added_to_oa": null,
+    "date_text": "1855\u201357",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "cover",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-05-29 09:03:04.267000"
+  }
+}

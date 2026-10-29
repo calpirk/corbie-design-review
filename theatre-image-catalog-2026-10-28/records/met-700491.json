@@ -1,0 +1,101 @@
+{
+  "objectID": 700491,
+  "isHighlight": false,
+  "accessionNumber": "53.600.3543",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP874685.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP874685.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74765,
+      "role": "Artist",
+      "name": "Math\u00e4us K\u00fcsel",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008775",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q33136405",
+      "gender": ""
+    },
+    {
+      "constituentID": 74766,
+      "role": "Artist",
+      "name": "after Ludovico Ottavio Burnacini",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007823",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3836364",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Print, Fete, Ornament & Architecture",
+  "title": "Pleasure garden, with three figures in front of a fountain at center, a row of putti to the left, and a group of women to the right; set design from 'Il Pomo D'Oro'",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Math\u00e4us K\u00fcsel",
+  "artistDisplayBio": "German, 1621\u20131682",
+  "artistSuffix": "",
+  "artistAlphaSort": "K\u00fcsel, Math\u00e4us",
+  "artistNationality": "German",
+  "artistBeginDate": "1621",
+  "artistEndDate": "1682",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q33136405",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008775",
+  "objectDate": "1668",
+  "objectBeginDate": 1668,
+  "objectEndDate": 1668,
+  "medium": "Etching",
+  "dimensions": "Sheet (Trimmed): 10 3/8 \u00d7 17 1/4 in. (26.4 \u00d7 43.8 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": "Trimmed",
+      "elementMeasurements": {
+        "Height": 26.4,
+        "Width": 43.8
+      }
+    }
+  ],
+  "creditLine": "Harris Brisbane Dick Fund, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Prints",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-04T04:53:35.917Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/700491",
+  "tags": [
+    {
+      "term": "Fountains",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+    },
+    {
+      "term": "Gardens",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+    },
+    {
+      "term": "Putti",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

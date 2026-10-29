@@ -1,0 +1,23 @@
+{
+  "id": "cma-150250",
+  "title": "Theater",
+  "creator": "Max Beckmann (German, 1884\u20131950)",
+  "date": "1916",
+  "medium": "drypoint",
+  "institution": "Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1981.106",
+  "rights": "CC0",
+  "rights_url": "https://www.clevelandart.org/open-access",
+  "credit_line": "Gift in memory of Anne Coburn Reid from the family of George McKay Reid",
+  "download_url": "https://openaccess-cdn.clevelandart.org/1981.106/1981.106_full.tif",
+  "retrieved_url": "https://openaccess-cdn.clevelandart.org/1981.106/1981.106_print.jpg",
+  "preview": "previews/cma-150250.jpg",
+  "width": 3400,
+  "height": 2485,
+  "record": "records/cma-150250.json",
+  "collection": "New theatre research",
+  "rights_group": "Verified public domain / CC0",
+  "verification": "Individual institution API record checked, 28 October 2026",
+  "review_status": "Downloaded; awaiting visual review",
+  "source_sha256": "8dd4521fd01f852eba2cbd6cf12f0cfeb0df1c2eee961b7fbc2e3a35e78feaa9"
+}

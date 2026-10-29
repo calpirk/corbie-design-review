@@ -1,0 +1,81 @@
+{
+  "objectID": 387306,
+  "isHighlight": false,
+  "accessionNumber": "53.668.53",
+  "accessionYear": "1953",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP819581.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP819581.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP819582.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 69611,
+      "role": "Artist",
+      "name": "Eug\u00e8ne Cic\u00e9ri",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026146",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3059780",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Design for a Stage Set",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Eug\u00e8ne Cic\u00e9ri",
+  "artistDisplayBio": "French, Paris 1813\u20131890 Fontainebleau",
+  "artistSuffix": "",
+  "artistAlphaSort": "Cic\u00e9ri, Eug\u00e8ne",
+  "artistNationality": "French",
+  "artistBeginDate": "1813",
+  "artistEndDate": "1890",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3059780",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026146",
+  "objectDate": "1828\u201390",
+  "objectBeginDate": 1828,
+  "objectEndDate": 1890,
+  "medium": "",
+  "dimensions": "",
+  "measurements": null,
+  "creditLine": "Gift of Mrs. Henry T. Curtis, 1953",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/387306",
+  "tags": [
+    {
+      "term": "Landscapes",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+    },
+    {
+      "term": "Stage Design",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435128",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q55619117"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

@@ -1,0 +1,88 @@
+{
+  "objectID": 383896,
+  "isHighlight": false,
+  "accessionNumber": "2008.538.22",
+  "accessionYear": "2008",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP167485.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP167485.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74777,
+      "role": "Artist",
+      "name": "Jean Nicolas Servandoni",
+      "constituentULAN_URL": "(not assigned)",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2356668",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Architectural Capriccio with a Monumental Arch",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Jean Nicolas Servandoni",
+  "artistDisplayBio": "Italian, Florence 1695\u20131766 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Servandoni, Jean Nicolas",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1695",
+  "artistEndDate": "1766",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2356668",
+  "artistULAN_URL": "(not assigned)",
+  "objectDate": "18th century",
+  "objectBeginDate": 1705,
+  "objectEndDate": 1766,
+  "medium": "Gouache with touches of gum arabic",
+  "dimensions": "Sheet: 18 1/2 x 26 in. (47 x 66 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 47,
+        "Width": 66
+      }
+    }
+  ],
+  "creditLine": "Gift of Mrs. Charles Wrightsman, 2008",
+  "geographyType": "Country of Origin",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "France",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-21T10:05:27.96Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/383896",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Ruins",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

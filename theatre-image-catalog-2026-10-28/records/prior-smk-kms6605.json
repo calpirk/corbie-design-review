@@ -1,0 +1,382 @@
+{
+  "items": [
+    {
+      "id": "1170020146_object",
+      "created": "2020-03-21T12:19:12Z",
+      "modified": "2025-07-11T17:34:58Z",
+      "backside_protection": true,
+      "current_location_name": "Sal 217D",
+      "current_location_date": "2021-03-22T00:00:00Z",
+      "acquisition_date": "1969-03-19T00:00:00Z",
+      "acquisition_date_precision": "1969-03-19",
+      "dimensions": [
+        {
+          "notes": "225 x 330 mm",
+          "part": "bladmaal",
+          "type": "height",
+          "unit": "cm",
+          "value": "22.5"
+        },
+        {
+          "notes": "225 x 330 mm",
+          "part": "bladmaal",
+          "type": "width",
+          "unit": "cm",
+          "value": "33"
+        },
+        {
+          "notes": "372 x 461 x 50 mm",
+          "part": "Brutto",
+          "type": "height",
+          "unit": "cm",
+          "value": "37.2"
+        },
+        {
+          "notes": "372 x 461 x 50 mm",
+          "part": "Brutto",
+          "type": "width",
+          "unit": "cm",
+          "value": "46.1"
+        },
+        {
+          "notes": "372 x 461 x 50 mm",
+          "part": "Brutto",
+          "type": "depth",
+          "unit": "cm",
+          "value": "5"
+        }
+      ],
+      "documentation": [
+        {
+          "title": "Frants B\u00f8e: Stilleben",
+          "author": "Ubekendt",
+          "notes": "p. 5 (ill. 5), 22.",
+          "shelfmark": "2001-449",
+          "year_of_publication": "1997"
+        },
+        {
+          "title": "Dansk kunst: tusind \u00e5rs kunsthistorie",
+          "author": "Hans Edvard N\u00f8rreg\u00e5rd-Nielsen",
+          "notes": "afb. p. 269, omt. p. 269-70",
+          "shelfmark": "2003-520",
+          "year_of_publication": "2003"
+        },
+        {
+          "title": "A minimal future?: art as object 1958-1968",
+          "author": "Ubekendt",
+          "notes": "kat. 82.",
+          "shelfmark": "2004-289",
+          "year_of_publication": "2004"
+        },
+        {
+          "title": "Turner og tidens natursyn",
+          "author": "Kasper Monrad",
+          "notes": "kat. 82, omt. p. 136-139, 250, afb. p. 139, 250",
+          "shelfmark": "2004-389",
+          "year_of_publication": "2004"
+        },
+        {
+          "title": "Christen K\u00f8bke",
+          "author": "Mikael Wivel",
+          "notes": "Omt. p. 55-56: Billedet viser trappen op til K\u00f8bkes lejlighed, og det rum, vi skimter bag den \u00e5ben d\u00f8r, er hans atelier. Ill. p. 55",
+          "shelfmark": "2005-145",
+          "year_of_publication": "2005"
+        },
+        {
+          "title": "Maleren Christen K\u00f8bkes Arbejder: illustreret Fortegnelse",
+          "author": "Mario Krohn",
+          "notes": "v\u00e6rkfortegnelse nr. 159.",
+          "shelfmark": "20285",
+          "year_of_publication": "1915"
+        },
+        {
+          "title": "K\u00f8bke p\u00e5 Blegdammen og ved Sortedamss\u00f8en: 26. september - 1. november 1981: Statens Museum for Kunst, K\u00f8benhavn",
+          "author": "Kasper Monrad",
+          "notes": "kat. 54.",
+          "shelfmark": "48959",
+          "year_of_publication": "[1981]"
+        },
+        {
+          "title": "Danish painting: the golden age: a loan exhibition from the Statens Museum for Kunst, Copenhagen: The National Gallery, London, 5 September - 20 November 1984",
+          "author": "Kasper Monrad",
+          "notes": "kat. 66.",
+          "shelfmark": "51145",
+          "year_of_publication": "cop. 1984"
+        },
+        {
+          "title": "Danish painting: the golden age",
+          "author": "Henrik Bramsen",
+          "notes": "kat. 66.",
+          "shelfmark": "51145",
+          "year_of_publication": "1984"
+        },
+        {
+          "title": "L'age d'or de la peinture danoise 1800-1850",
+          "author": "Ubekendt",
+          "notes": "kat. 146.",
+          "shelfmark": "51367",
+          "year_of_publication": "1984"
+        },
+        {
+          "title": "Friluftsm\u00e5leri f\u00f6re friluftsm\u00e5leriet: oljestudien i nordisk landskapsm\u00e5leri i 1800-1850",
+          "author": "Torsten Gunnarsson",
+          "notes": "139ff (afb.)",
+          "shelfmark": "90-9",
+          "year_of_publication": "1989"
+        },
+        {
+          "title": "Dansk guldalder: hovedv\u00e6rker p\u00e5 Statens Museum for Kunst",
+          "author": "Kasper Monrad",
+          "notes": "p. 158, pl. 52.",
+          "shelfmark": "94-370",
+          "year_of_publication": "1994"
+        },
+        {
+          "title": "Christen K\u00f8bke 1810-1848",
+          "author": "Ubekendt",
+          "notes": "kat. 159.",
+          "shelfmark": "96-167",
+          "year_of_publication": "1996"
+        },
+        {
+          "title": "Hverdagsbilleder: dansk guldalder - kunstnerne og deres vilk\u00e5r",
+          "author": "Kasper Monrad",
+          "notes": "p. 138, fig. 119.",
+          "shelfmark": "C 17885",
+          "year_of_publication": "1989"
+        },
+        {
+          "title": "Christen K\u00f8bke: Danish master of light",
+          "author": "David Jackson",
+          "notes": "p. 97f, pl. 72.",
+          "shelfmark": "C 45387",
+          "year_of_publication": "2010"
+        },
+        {
+          "title": "Balti biidermeier. Panoraame ja l\u00e4hivaatlusi",
+          "author": "Ubekendt",
+          "notes": "afb. p. 124 (fig. 9), omt. p. 114 (tekst af K. Monrad).",
+          "shelfmark": "D 54734",
+          "year_of_publication": "2011"
+        },
+        {
+          "title": "The Golden Age of Danish Painting",
+          "author": "Kasper Monrad",
+          "notes": "kat. 77.",
+          "year_of_publication": "1993"
+        },
+        {
+          "title": "Utst\u00e4llning av dansk konst fr\u00e5n 1800-talets f\u00f6rra h\u00e4lft",
+          "author": "Carl G. Laurin",
+          "notes": "kat. 124.",
+          "shelfmark": "S 1136",
+          "year_of_publication": "1922"
+        },
+        {
+          "title": "Nordic Impressions: Art from \u00c5land, Denmark, The Faroe Islands, Finland, Greenland, Iceland, Norway, and Sweden, 1821-2018",
+          "author": "Klaus Ottmann",
+          "notes": "Fig. 15, p. 135",
+          "year_of_publication": "2019"
+        }
+      ],
+      "exhibitions": [
+        {
+          "exhibition": "Turner og tidens natursyn",
+          "date_start": "2004-09-04T00:00:00.000Z",
+          "date_end": "2005-01-09T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "\"Danish Golden Age\" Petit Palais",
+          "date_start": "2020-04-27T00:00:00.000Z",
+          "date_end": "2020-08-25T00:00:00.000Z",
+          "venue": "Petit Palais"
+        },
+        {
+          "exhibition": "D\u00e4nemark zu Gast",
+          "date_start": "2005-08-11T00:00:00.000Z",
+          "date_end": "2006-07-01T00:00:00.000Z",
+          "venue": "Hamburger Kunsthalle"
+        },
+        {
+          "exhibition": "Dansk guld\u00e5lder / The Danish Golden Age",
+          "date_start": "2019-02-28T00:00:00.000Z",
+          "date_end": "2019-07-21T00:00:00.000Z",
+          "venue": "Nationalmuseum, Stockholm"
+        },
+        {
+          "exhibition": "Christen K\u00f8bke 1810 - 1848",
+          "date_start": "1996-02-09T00:00:00.000Z",
+          "date_end": "1996-05-26T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Christen K\u00f8bke: Danish Master of Light",
+          "date_start": "2010-03-17T00:00:00.000Z",
+          "date_end": "2010-06-12T00:00:00.000Z",
+          "venue": "National Gallery, London"
+        },
+        {
+          "exhibition": "Christen K\u00f8bke: Danish Master of Light",
+          "date_start": "2010-07-04T00:00:00.000Z",
+          "date_end": "2010-10-02T00:00:00.000Z",
+          "venue": "National Galleries of Scotland, Edinburgh"
+        },
+        {
+          "exhibition": "100 Mesterv\u00e6rker",
+          "date_start": "1996-06-23T00:00:00.000Z",
+          "date_end": "1996-08-04T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Dansk Guldalder: Verdenskunst mellem to katastrofer",
+          "date_start": "2019-08-24T00:00:00.000Z",
+          "date_end": "2019-12-08T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Nordic Highlights",
+          "date_start": "2017-04-08T00:00:00.000Z",
+          "date_end": "2017-08-13T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        }
+      ],
+      "inscriptions": [
+        {
+          "content": "[P\u00e5 bl\u00e6ndrammens skjulte side:] Havetrappen ved min Malestue",
+          "type": "Inscription"
+        }
+      ],
+      "labels": [
+        {
+          "text": "While travelling in Italy K\u00f8bke achieved a much greater degree of painterly freedom in his studies than before, particularly in his painted studies from Capri (right). These images have a sketch-like quality not found in other Danish painters. K\u00f8bke\u2019s new style of painting had a knock-on effect on the studies done near his home on Blegdammen after his return from Italy. In the painting of the garden steps he evinces an unheard-of boldness in his choice of motif and angle \u2013 and in his cropping of the scene. We barely get an impression of the house; the gnarly tree by the steps is the key element of the painting together with the beautifully observed sunlight hitting the fa\u00e7ade and tree, falling in through a window and upon the open door. The painting has no parallel in Danish art of the period.",
+          "type": "EXHIBITIONTEXT",
+          "source": "Peter N\u00f8rgaard Larsen"
+        },
+        {
+          "text": "The motif shows a part of K\u00f8bke\u2019s parents\u2019 farm, where K\u00f8bke had his own self-contained flat. The point of view adopted here only offers a limited impression of the house, making the sunlit, sprawling tree the main motif of the painting.After the death of K\u00f8bke\u2019s father in 1843 K\u00f8bke stayed at Blegdammen for two years until his mother had to sell the property in 1845. In all likelihood it was around this time that K\u00f8bke began painting the farmhouse itself. Presumably to have something by which to remember a house that had been his home for twelve years he selected a number of motifs that were closely linked to his everyday life; all of these belong to the part of the house in which he had his own self-contained quarters. One of the scenes painted was this image of the garden steps leading up to his studio. The point of view adopted and the cropping of the motif are both strikingly off-kilter. The gables and stairs are cut off by the edge of the image, and the fa\u00e7ade towards the road is heavily foreshortened. The depiction is entirely unrepresentative and offers only a limited impression of what the house looked like; a somewhat confusing choice in light of what we presume K\u00f8bke\u2019s intentions to have been. It may seem as if the sunlight determined the angle chosen. The gables are in the shade whereas the fa\u00e7ade is strongly lit, and rays of sunlight fall upon the garden door and on the lush tree. This gives the sunlight an astonishing intensity. The roof tiles in the left hand side of the painting have not been painted completely in. Perhaps the artist did not have time to finish the painting before moving, which makes 1845 a likely dating. As a companion piece for this painting he also did a canvas of a corner of the house (as viewed from the garden); both paintings have a dark green painted frame, which tells us that they have been hung without frames. According to a note, now lost, on the back of the painting it was the property of the artist\u2019s sister, Juliane K\u00f8bke, as far back as 1847.",
+          "type": "EXHIBITIONTEXT",
+          "source": "Kasper Monrad"
+        },
+        {
+          "text": "While K\u00f8bke would usually adhere to the prevalent norms governing the choice of motif and composition in his large, fully finished paintings, he was far more open towards unconventional artistic solutions in the small-scale private studies he painted entirely for his own pleasure. In this painting of garden stairs he evinced an unheard-of boldness in his choice of motif, angle, and cropping, and his manner of painting is much more free than in his large paintings. Even though he was painting his own home, he barely conveys any impression of the house itself; the rambling tree by the stairs is the key element of the painting - alongside, that is, the accurately observed sunlight falling upon the fa\u00e7ade and tree, in through a window to end upon the open door. In studies such as this K\u00f8bke went to greater extremes than any of his contemporary colleagues and the painting has no parallels within the Danish art of the time.",
+          "type": "CATALOGUETEXT",
+          "source": "Kasper Monrad"
+        }
+      ],
+      "materials": [
+        "Paper",
+        "canvas"
+      ],
+      "object_names": [
+        {
+          "name": "Painting"
+        }
+      ],
+      "production": [
+        {
+          "creator": "K\u00f8bke, Christen",
+          "creator_forename": "Christen",
+          "creator_surname": "K\u00f8bke",
+          "creator_date_of_birth": "1810-05-26T00:00:00.000Z",
+          "creator_date_of_death": "1848-02-07T00:00:00.000Z",
+          "creator_nationality": "Danish",
+          "creator_gender": "MALE",
+          "creator_history": "Christen K\u00f8bke begyndte at tegne, da han i 11-\u00e5rsalderen m\u00e5tte holde sengen p\u00e5 grund af en langvarig gigtfeber. Der blev ikke fra hjemmets side gjort indsigelser mod hans \u00f8nske om at komme p\u00e5 Kunstakademiet hos den aldrende professor C.A. Lorentzen. Omkring 1827 var K. parat til at begynde p\u00e5 egen h\u00e5nd, og nogle tidlige portr\u00e6tter af et par sm\u00e5s\u00f8stre, en yngre broder og en f\u00e6tter viser i b\u00e5de den gyldenm\u00f8rke farveholdning og ved indf\u00f8rslen af et lyssk\u00e6r bag ansigtet en n\u00e6r p\u00e5virkning fra professoren. Ved Lorentzens d\u00f8d i 1828 blev en epoke b\u00e5ret til graven. Over et par kopier af dels Frederik VI og dels et brudstykke af C.W. Eckersbergs portr\u00e6t af Thorvaldsen fra 1814 blev K. ca. 1828 tilsyneladende sluppet l\u00f8s p\u00e5 egen h\u00e5nd, og man kan f\u00f8lge hans samtidige bestr\u00e6belser p\u00e5 at tilegne sig linearperspektivet i et par sm\u00e5billeder, der forestiller udsigten fra Eckersbergs vindue, og et parti fra Garnisonspladsen. Den tydelige p\u00e5virkning fra det sete og stringent opbyggede hos Eckersberg viser sammen med en ny, lettere kolorit et hamskifte, der delvis blev fuldbyrdet i den arbejdssommer, K. i 1829 tilbragte hos akademikammeraten Emmerik H\u00f8egh-Guldberg i \u00c5rhus. Her udf\u00f8rte han nogle portr\u00e6tter af bl.a. sit v\u00e6rtspar, der bekr\u00e6fter opbruddet fra Lorentzen, mens hele lysfylden, det koloristisk samstemte og det direkte observerede i hans portr\u00e6t af Gebauers unge datter viser ham p\u00e5 vej frem mod Eckersberg. Har man s\u00e5ledes kunstneren i sv\u00f8b, \u00e5benbarede han desuden alt det, der skulle g\u00f8re ham uovertruffen i dansk kunst, i sit Parti af \u00c5rhus Domkirke, som blev anlagt p\u00e5 stedet, men f\u00f8rst fuldf\u00f8rt efter hjemkomsten. Selve motivet afspejler de besl\u00e6gtede kirkeinteri\u00f8rer, som J\u00f8rgen Roed og Constantin Hansen nogle m\u00e5neder tidligere havde anlagt i Skt. Bendts Kirke i Ringsted. H\u00f8yens begyndende nationalromantiske program l\u00e5 bagved. Antagelig pr\u00e6gedes hans natursyn i perioden af den n\u00e6re omgang med Gebauer, og sk\u00f8nt K. efter hjemkomsten stadig var parat til at signere de v\u00e6rste barnagtigheder, var der, motivisk i en helt anden retning, allerede et nyt tyngdepunkt i Parti af afst\u00f8bningssamlingen p\u00e5 Charlottenborg, 1830. Her er det ikke bare en fremstilling af Kunstakademiets repr\u00e6sentative udvalg af gipsafst\u00f8bninger efter Parthenonfrisen, men en n\u00e6sten sakral annammelse i billedhuggeren H.E. Freunds \u00e5nd. Denne skulle i 1830rne fortr\u00e6nge Eckersberg som den dominerende skikkelse i K.s liv, delvis til gavn for kunstnerens udvikling, men delvis ogs\u00e5 som en belastning for det forknytte i K.s v\u00e6sen. K. \u00e5benbarede sig samtidig som en fuldendt landskabskunstner i det bekendte Udsigt til Kastelsvolden fra loftet p\u00e5 kornmagasinet ved bageriet, 1830, og et andet hovedv\u00e6rk som Parti af g\u00e5rden ved bageriet i Kastellet er antagelig udf\u00f8rt samtidig. En mangel p\u00e5 skabende fantasi bet\u00f8d, at han i mods\u00e6tning til hovedparten af sine samtidige ikke indlod sig i konkurrencen om akademiets guldmedaljer. Derfor begyndte hans tilknytning til Kunstakademiet ogs\u00e5 at l\u00f8snes omkring 1832, sk\u00f8nt han ved flere lejligheder vendte tilbage for at arbejde efter is\u00e6r kvindelig n\u00f8genmodel. Tilsyneladende var det i perioden K.s agt at skabe sig en levevej som portr\u00e6tmaler. Talentet vistes uanstrengt i portr\u00e6ttet af landskabsmaleren S\u00f8dring, som han samme \u00e5r havde lejet atelier sammen med p\u00e5 Toldbodvej. Et portr\u00e6t af H\u00f8yens gamle moder h\u00e6vder sig ved den farvesikre og redelige gengivelse af det brede almueansigt og den hele personlighed. K. forblev i karakteristikkerne i sin egen fortrolighedssf\u00e6re, personerne formidledes med en forst\u00e5else indefra samt ikke mindst en voksende viden om kunstens v\u00e6sen. Kunstneren tangerede endda sidst i 1832 artisteriet i sine karakterportr\u00e6tter af henholdsvis en gammel s\u00f8mand og en gammel bondekone. Det n\u00e6sten and\u00e6gtige i karakteristikken af dansk almue skyldes H\u00f8yens voksende fremh\u00e6velse af det danske landskab med dets monumenter fra en svunden storhedstid og den danske almue som noget, der burde v\u00e6re motiver for en nationalsindet kunstner. K.s ublandede og usv\u00e6kkede malergl\u00e6de viste sig i 1833 ikke mindst i de mange friluftsstudier, han udf\u00f8rte langs Kastelsvolden eller i de gr\u00f8nne omgivelser omkring. Han havde da samtidig taget fat med blyanten. Den n\u00e6sten maleriske udstr\u00e6kning fra det bl\u00f8dt skraverede til de punkter, hvor blyet ses som boret ind i papiret, er ikke uden lighedspunkter med C.A. Jensens bedste tegninger, og K. stod samtidig over for at l\u00e6re adskilligt af ham som portr\u00e6tmaler. K.s streg skulle f\u00e5 en signaturagtig karakter, hans bedste tegninger er uovertrufne i dansk kunst, og man kan finde en n\u00e6r overensstemmelse mellem dem og flere af hans billeder fra Kastelsvolden. De bedste er fastholdt med en k\u00f8lig stringens og en farvefylde, der str\u00e6kker sig fra det s\u00f8lvtindrende mod en blond modenhed. K. n\u00e5ede med dem volden rundt, m\u00e5ske i en slags efters\u00f8gning af en monumentalkomposition, men billederne b\u00e6rer is\u00e6r pr\u00e6g af at skulle v\u00e6re en slags erindringsstykker fra Kastellet. K. forberedte sig p\u00e5 et nyt afsnit i sin kunst med Parti udenfor den nordre Kastelsport, mens hans tidligere malerier var sm\u00e5, naturalistiske studier, baseret p\u00e5 det umiddelbart iagttagne, banedes vejen nu gennem en malet skitse og en lang r\u00e6kke gennemtegnede detaljestudier. Som i flere af Eckersbergs prospekter fra Rom og K\u00f8benhavn er kompositionen ikke mindst lagt fast ved hj\u00e6lp af arkitekturen og den klare opdeling mellem lys og skygge, der understreger helheden uden at glemme detaljen. Denne type malerier blev udf\u00f8rt i atelieret, luft- og lystonerne er pr\u00e6get af det, men det lykkedes i en sj\u00e6lden grad kunstneren at overf\u00f8re skitsernes friske anslag til det f\u00e6rdige maleri. I hovedv\u00e6rket, Parti af \u00d8sterbro i morgenbelvsning, fors\u00f8gte K. sig uden forudg\u00e5ende skitse, men motivet forel\u00e5 gennemtegnet og overf\u00f8rt til l\u00e6rredet ved hj\u00e6lp af en kvadrering, som kunstneren ogs\u00e5 siden ofte tog sin tilflugt til. Som en slags erindring om et tabt barndomsland i Hiller\u00f8d finder man to v\u00e6ldige fremstillinger af udsigten hen over dels et af de sm\u00e5 t\u00e5rne og dels tagryggen af Frederiksborg Slot. De 2 monumentalkompositioner blev forberedt i flere sommerlige og dagklare skitser og tegninger. I de f\u00f8lgende \u00e5r skulle K. ofte vende tilbage til Frederiksborg, der if\u00f8lge H\u00f8yen var Nordens sk\u00f8nneste kongebolig. Kunstnerens samtidige breve og svogeren, F.C. Krohns senere oplysninger viser, at han i midten af 1830rne henfaldt til kunstneriske anf\u00e6gtelser og religi\u00f8se grublerier. Noget skyldtes den n\u00e6re ber\u00f8ring med svogeren, pastor N.L. Feilberg samt en fordybet l\u00e6sning i den senpietistiske kielerpr\u00e6st, Claus Harms pr\u00e6dikensamling, men den midtpunktsskabende Freunds melankoli gjorde sig ogs\u00e5 g\u00e6ldende. Kunstnerisk kan \u00e6ndringen afl\u00e6ses i de store portr\u00e6tter, K. udf\u00f8rte af venner og familiemedlemmer, ikke mindst af Freund. Koloritten er knap og m\u00f8rkladen mod det \u00f8de, ligesom umiddelbarheden er afl\u00f8st at noget tungt eftert\u00e6nksomt og indadvendt. Holdningen kom koncentreret til udtryk i et par sene efter\u00e5rslandskaber, der tilbagevendende har f\u00e5et dansk kunsthistorie til at lede efter en mulig p\u00e5virkning fra C.D. Friedrich. K.s store rejse kulminerede i et flere m\u00e5neder langt ophold p\u00e5 Capri. Han arbejdede med fork\u00e6rlighed ved \u00f8ens to havne, Marina Grande og Marina Piccola, indsatsen er delvis undervurderet, og r\u00e6kken af tegninger, skitser og st\u00f8rre studier viser ikke mindst, hvordan kunstneren havde f\u00e5et sin gamle malergl\u00e6de tilbage. Efter tilbagekomsten trak det p\u00e5 grund af familieproblemer i langdrag, f\u00f8r K\u00f8bke fik afleveret sit receptionsbillede Parti af Marina Piccola p\u00e5 Capri til Akademiet, og da det endelig skete i 1846, blev det forkastet. Det lader sig ikke n\u00e6gte, at det minuti\u00f8st gennemarbejdede maleri, der eksisterer i 2 versioner, d\u00f8de mellem h\u00e6nderne p\u00e5 kunstneren, men det var langt fra d\u00e5rligere end s\u00e5 mange andre optagelsesstykker. K., der imens havde udf\u00f8rt en r\u00e6kke af sine bedste studier langs Sortedamss\u00f8en og ved hjemmet, kastedes ud i en krise, der i en periode fik ham til at overveje en fremtid som dekorationsmaler. Efterh\u00e5nden genvandt han modet, og betjente sig ikke bare usv\u00e6kket, men med en ny malerisk sikkerhed igen af blyant og pensel, noget nyt var m\u00e5ske undervejs, men i februar 1848 d\u00f8de han af en lungebet\u00e6ndelse, der antagelig hang sammen med hans overdrevne anvendelse af koldtvandskure. Yngre kollegaer som Lundbye og Skovgaard havde efter K.s hjemkomst samlet sig om ham, men i periodens voksende opposition mod Akademiet f\u00f8lte de, at han klynkede for meget over den afvisning, der kort efter ogs\u00e5 ramte Constantin Hansen. K.s umiddelbare efterm\u00e6le sv\u00e6kkedes af, at hovedparten af hans malerier forblev i sl\u00e6gtens eje. K. genvandt langsomt en placering frem mod 1900, ikke mindst underst\u00f8ttet af en udstilling i Kunstforeningen i 1884 samt af Emil Hannovers b\u00e5de indforst\u00e5ede og vidende biografi fra 1893. I dag er K. bredt anerkendt som landets m\u00e5ske betydeligste maleriske begavelse gennem tiden.",
+          "creator_lref": "1117_person"
+        }
+      ],
+      "production_date": [
+        {
+          "start": "1841-01-01T00:00:00.000Z",
+          "end": "1844-12-31T00:00:00.000Z",
+          "period": "1841-1844"
+        }
+      ],
+      "techniques": [
+        "Oil on paper, mounted on canvas"
+      ],
+      "titles": [
+        {
+          "title": "The Garden Steps Leading to the Artist's Studio on Blegdammen, Copenhagen",
+          "language": "engelsk"
+        }
+      ],
+      "number_of_parts": 1,
+      "object_number": "KMS6605",
+      "object_url": "https://api.smk.dk/api/v1/art?object_number=KMS6605",
+      "frontend_url": "https://open.smk.dk/artwork/image/KMS6605",
+      "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMS6605",
+      "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMS6605",
+      "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMS6605",
+      "production_dates_notes": [
+        "V\u00e6rkdatering: (ca. 1845)",
+        "afsluttet: fagligt sk\u00f8n (K\u00f8bke og hans familie flyttede fra huset p\u00e5 Blegdammen i 1845)."
+      ],
+      "work_status": [
+        "pendant"
+      ],
+      "public_domain": true,
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "on_display": true,
+      "alternative_images": [
+        {
+          "mime_type": "image/tiff",
+          "iiif_id": "https://iip.smk.dk/iiif/jp2/c534fp89c_KMS6605.TIF.jp2",
+          "iiif_info": "https://iip.smk.dk/iiif/jp2/c534fp89c_KMS6605.TIF.jp2/info.json",
+          "width": 6144,
+          "height": 4096,
+          "size": 26043305.51724138,
+          "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/c534fp89c_KMS6605.TIF.jp2/full/!1024,/0/default.jpg",
+          "native": "https://iip.smk.dk/iiif/jp2/c534fp89c_KMS6605.TIF.jp2/full/full/0/native.jpg",
+          "orientation": "landscape"
+        },
+        {
+          "mime_type": "image/tiff",
+          "iiif_id": "https://iip.smk.dk/iiif/jp2/gh93h265p_KMS6605-crop.tif.jp2",
+          "iiif_info": "https://iip.smk.dk/iiif/jp2/gh93h265p_KMS6605-crop.tif.jp2/info.json",
+          "width": 4491,
+          "height": 3047,
+          "size": 14166462.068965517,
+          "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/gh93h265p_KMS6605-crop.tif.jp2/full/!1024,/0/default.jpg",
+          "native": "https://iip.smk.dk/iiif/jp2/gh93h265p_KMS6605-crop.tif.jp2/full/full/0/native.jpg",
+          "orientation": "landscape"
+        }
+      ],
+      "image_mime_type": "image/tiff",
+      "image_iiif_id": "https://iip.smk.dk/iiif/jp2/7w62fc23r_KMS6605.TIF.jp2",
+      "image_iiif_info": "https://iip.smk.dk/iiif/jp2/7w62fc23r_KMS6605.TIF.jp2/info.json",
+      "image_width": 4112,
+      "image_height": 2835,
+      "image_size": 12069990,
+      "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/7w62fc23r_KMS6605.TIF.jp2/full/!1024,/0/default.jpg",
+      "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi83dzYyZmMyM3JfS01TNjYwNS5USUYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TNjYwNSIsIm51bSI6IiJ9XQ==/KMS6605.jpg",
+      "image_cropped": true,
+      "image_orientation": "landscape",
+      "image_hq": true,
+      "has_3d_file": false,
+      "has_image": true,
+      "colors": [
+        "#222222",
+        "#191909",
+        "#ffe7c9",
+        "#77733d",
+        "#908d41",
+        "#999999",
+        "#555555"
+      ],
+      "suggested_bg_color": [
+        "#908d41"
+      ],
+      "entropy": 9.768842,
+      "contrast": 3.9055436,
+      "saturation": 2.74943,
+      "colortemp": 3.927364,
+      "brightness": 3.7486362,
+      "geo_location": "55.69548188932481,12.569171097375476",
+      "artist": [
+        "Christen K\u00f8bke"
+      ]
+    }
+  ]
+}

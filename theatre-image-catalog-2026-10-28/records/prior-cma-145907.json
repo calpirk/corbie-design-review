@@ -1,0 +1,903 @@
+{
+  "data": {
+    "id": 145907,
+    "accession_number": "1971.132",
+    "share_license_status": "CC0",
+    "tombstone": "Lily and Butterflies (\u8431\u8776\u5716), 1300s. Liu Shanshou (Chinese, active 1300s). Hanging scroll; ink on silk; painting: 160 x 58.4 cm (63 x 23 in.); overall with knobs: 277.7 x 85.2 cm (109 5/16 x 33 9/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.132",
+    "current_location": null,
+    "title": "Lily and Butterflies",
+    "title_in_original_language": "\u8431\u8776\u5716",
+    "creation_date": "1300s",
+    "creation_date_earliest": 1300,
+    "creation_date_latest": 1368,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "China, Yuan dynasty (1271-1368)"
+    ],
+    "technique": "Hanging scroll; ink on silk",
+    "support_materials": [],
+    "department": "Chinese Art",
+    "collection": "ASIAN - Hanging scroll",
+    "type": "Painting",
+    "measurements": "Painting: 160 x 58.4 cm (63 x 23 in.); Overall with knobs: 277.7 x 85.2 cm (109 5/16 x 33 9/16 in.)",
+    "dimensions": {
+      "image": {
+        "height": 1.6,
+        "height_inch": 63,
+        "height_inch_fraction": 0.0,
+        "width": 0.584,
+        "width_inch": 23,
+        "width_inch_fraction": 0.0
+      },
+      "painting": {
+        "height": 1.6,
+        "height_inch": 63,
+        "height_inch_fraction": 0.0,
+        "width": 0.584,
+        "width_inch": 23,
+        "width_inch_fraction": 0.0
+      },
+      "overall": {
+        "height": 2.777,
+        "height_inch": 109,
+        "height_inch_fraction": 0.3125,
+        "width": 0.753,
+        "width_inch": 29,
+        "width_inch_fraction": 0.625
+      },
+      "overall with knobs": {
+        "height": 2.777,
+        "height_inch": 109,
+        "height_inch_fraction": 0.3125,
+        "width": 0.852,
+        "width_inch": 33,
+        "width_inch_fraction": 0.5625
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "\u8431\u8776\u5716",
+        "inscription_translation": "Artist's title: Lily and Butterflies",
+        "inscription_remark": null,
+        "sortorder": 1
+      },
+      {
+        "inscription": "Artist's 3 seals: Zhongxiao chuanjia [filial loyalty handed down in family \u5fe0\u5b5d\u50b3\u5bb6]; Liu Shanshou yin \u5289\u5584\u5b88\u5370; Suizhai \u7d8f\u9f4b.",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": 2
+      },
+      {
+        "inscription": "9 additional seals: 1 of Liang Qingbiao \u6881\u6e05\u6a19 (1620\u20131691); 1 of Nalan Chengde (\u7d0d\u862d\u6210\u5fb7) [later known as Nalan Xingde \u7d0d\u862d\u6027\u5fb7] (1655\u20131685); 3 of Zhang Daqian \u5f35\u5927\u5343 (1899\u20131983); 1 of Wang Jiqian [C. C. Wang] \u738b\u5b63\u9077 (1907\u20132003); 3 unidentified.",
+        "inscription_translation": null,
+        "inscription_remark": "",
+        "sortorder": 3
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 301427,
+          "title": "Year in Review: 1971",
+          "description": "<i>Year in Review: 1971</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1971-February 6, 1972).",
+          "opening_date": "1971-12-28T05:00:00"
+        },
+        {
+          "id": 301895,
+          "title": "The Colors of Ink",
+          "description": "<i>The Colors of Ink</i>. Asia House Galleries (January 10-March 3, 1974); The Cleveland Museum of Art, Cleveland, OH (organizer) (April 9-May 12, 1974).",
+          "opening_date": "1974-01-10T04:00:00"
+        },
+        {
+          "id": 304517,
+          "title": "Eight Dynasties of Chinese Painting",
+          "description": "<i>Eight Dynasties of Chinese Painting</i>. The Nelson-Atkins Museum of Art (November 7, 1980-January 4, 1981); The Cleveland Museum of Art (February 11-March 29, 1981); Tokyo National Museum (October 4-November 17, 1982).",
+          "opening_date": "1981-02-11T05:00:00"
+        },
+        {
+          "id": 310268,
+          "title": "Scholar's Studio",
+          "description": "<i>Scholar's Studio</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 19-December 17, 1989).",
+          "opening_date": "1989-09-19T04:00:00"
+        },
+        {
+          "id": 538196,
+          "title": "Pacific Standard Time: Growing and Knowing in the Gardens of China",
+          "description": "<i>Pacific Standard Time: Growing and Knowing in the Gardens of China</i>. The Huntington Library, Art Collections and Botanical Gardens, San Marino, CA (organizer) (September 14, 2024-January 6, 2025) https://huntington.org/exhibition/duotiangong-growing-and-knowing-gardens-china.",
+          "opening_date": "2024-09-14T04:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Liang Qingbiao \u6881\u6e05\u6a19 [1620\u20131691]",
+        "citations": [],
+        "footnotes": null,
+        "date": "1600s",
+        "sortorder": 1
+      },
+      {
+        "description": "Zhang Daqian \u5f35\u5927\u5343 [1899\u20131983]",
+        "citations": [],
+        "footnotes": null,
+        "date": "? by 1943\u2013?",
+        "sortorder": 2
+      },
+      {
+        "description": "C. C. Wang \u738b\u5b63\u9077 [1907\u20132003], New York, NY, sold to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": null,
+        "date": "?\u20131971",
+        "sortorder": 3
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": null,
+        "date": "1971\u2013",
+        "sortorder": 4
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "The bird is the Chinese wagtail (<em>motacilla chinensis</em>).",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "The bird is represented in pale ink, probably sketched in before the darker ink was used to finish the rock. Like the butterfly and moth above, his tail feathers echo the bamboo as well as the leaves and petals of the flowers. The Chinese wagtail can connote brotherly love. The daylily was used for various pharmaceutical purposes, especially for deadening pain in childbirth. It was also considered efficacious in relieving grief and aiding in the production of sons. The lily is in fact the real subject of this painting: it is the common symbol for motherly love. Hence, the lingering of the butterfly over a lily can signify a son's love, devotion, and yearning for his mother\u2014the refuge from worldly woes.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q60471843"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1971.132-lily-and-butterflies"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Zhang, Daqian \u5f35\u5927\u5343. <em>Da feng tang shu hua lu</em> \u5927\u98a8\u5802\u66f8\u756b\u9304. Chengdu: [publisher not identified], 1943.",
+        "page_number": "p. 10(a)",
+        "url": ""
+      },
+      {
+        "citation": "Zhang Daqian \u5f35\u5927\u5343. <em>Taifudo meiseki</em> \u5927\u98a8\u5802\u540d\u8e5f. Kyo\u0304to: Benrido, 1955.",
+        "page_number": "Reproduced: volume I, pl. 18",
+        "url": ""
+      },
+      {
+        "citation": "<em> The Art Quarterly</em>, XXXV, no. 1 (Spring 1972).",
+        "page_number": "p. 81",
+        "url": ""
+      },
+      {
+        "citation": "Lee, Sherman Emery, and James Robinson. <em>The Colors of Ink: Chinese Paintings and Related Ceramics from the Cleveland Museum of Art</em>. New York: Asia Society; distributed by New York Graphic Society, 1974.",
+        "page_number": "cat. no. 21",
+        "url": ""
+      },
+      {
+        "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+        "page_number": "Reproduced: p. 347",
+        "url": "https://archive.org/details/CMAHandbook1978/page/n367"
+      },
+      {
+        "citation": "Ho, Wai-kam, Sherman E. Lee, Laurence Sickman, and Marc F. Wilson. <em>Eight Dynasties of Chinese Painting: The Collections of the Nelson Gallery-Atkins Museum, Kansas City, and the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, in cooperation with Indiana University Press, 1980.",
+        "page_number": "Mentioned and Reproduced: pp. 101\u2013102, cat. no. 82",
+        "url": ""
+      },
+      {
+        "citation": "Lee, Sherman E., and Wai-kam Ho. <em>The Nature and Significance of the Collection of Liang Ch'ing-Piao</em>. Taipei, Taiwan: Chung-hua ming-kuo, 1960.",
+        "page_number": "Mentioned: p. 134, no. 157",
+        "url": null
+      },
+      {
+        "citation": "Suzuki, Kei \u9234\u6728\u656c. <em>Chu\u0304goku kaiga so\u0304go\u0304 zuroku</em> [\u4e2d\u570b\u7e6a\u756b\u7e3d\u5408\u5716\u9304 = Comprehensive Illustrated Catalog of Chinese Paintings], \u7b2c 1\u5377. \u30a2\u30e1\u30ea\u30ab\u00b7\u30ab\u30ca\u30c0\u7bc7 [= vol. 1 American and Canadian collections]. To\u0304kyo\u0304: To\u0304kyo\u0304 Daigaku Shuppankai, 1982.",
+        "page_number": "Mentioned and Reproduced: #A22-005, p. 1-260",
+        "url": ""
+      },
+      {
+        "citation": "Guo li gu gong bo wu yuan \u570b\u7acb\u6545\u5bae\u535a\u7269\u9662. <em>Hai wai yi zhen. Hui hua</em>. \u6d77\u5916\u907a\u73ce. \u7e6a\u756b. Zhonghua min guo Taibei Shi Shilin qu: Guo li gu gong bo wu yuan, 1985.",
+        "page_number": "Reproduced: fig. 96, p. 101",
+        "url": ""
+      },
+      {
+        "citation": "To\u0304kyo\u0304 Daigaku \u6771\u4eac\u5927\u5b66. <em>Kaigai shozai Chu\u0304goku kaiga mokuroku</em> [\u6d77\u5916\u6240\u5728\u4e2d\u56fd\u7d75\u753b\u76ee\u9304. \u30a2\u30e1\u30ea\u30ab\u30ab\u30ca\u30c0\u7de8 = Catalogue of Chinese paintings in foreign collections: America and Canada]. To\u0304kyo\u0304: To\u0304kyo\u0304 Daigaku To\u0304yo\u0304 Bunka Kenkyu\u0304jo Fuzoku To\u0304yo\u0304gaku Bunken Senta\u0304, 1994.",
+        "page_number": "p. 63",
+        "url": ""
+      },
+      {
+        "citation": "Yang, Kathleen \u694a\u51f1\u7433, and Chi-ch\u02bbien Wang \u738b\u5b63\u9077. <em>Through a Chinese connoisseur's eye: private notes of C.C. Wang </em>\u738b\u5b63\u9077\u8b80\u66f8\u7b46\u8a18. Beijing: Zhong hua shu ju, 2010.",
+        "page_number": "Mentioned and Reproduced: p. 308, no. 20",
+        "url": ""
+      },
+      {
+        "citation": "<em>Growing and Knowing in the Gardens of China.</em> Edited by Phillip E. Bloom, Nicholas K. Menzies, Michelle Bailey, Duncan M. Campbell, Sarah Chen Huang, Xiao Huang, Shanshan Liu, et al. San Marino, California: The Huntington Library, Art Museum, and Botanical Gardens, 2024.",
+        "page_number": "Mentioned and Reproduced: pp. 88\u201389, no. 8",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/1971.132",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_web.jpg",
+        "width": "348",
+        "height": "900",
+        "filesize": "101444",
+        "filename": "1971.132_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_print.jpg",
+        "width": "1313",
+        "height": "3400",
+        "filesize": "1118918",
+        "filename": "1971.132_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_full.tif",
+        "width": "9891",
+        "height": "25609",
+        "filesize": "1519817156",
+        "filename": "1971.132_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt0_web.jpg",
+          "width": "900",
+          "height": "656",
+          "filesize": "181662"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt0_print.jpg",
+          "width": "3400",
+          "height": "2480",
+          "filesize": "3629875"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt0_full.tif",
+          "width": "13612",
+          "height": "9929",
+          "filesize": "405488696"
+        },
+        "date_created": "2022-12-16T12:22:01",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt1_web.jpg",
+          "width": "900",
+          "height": "806",
+          "filesize": "246756"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt1_print.jpg",
+          "width": "3400",
+          "height": "3045",
+          "filesize": "4529428"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt1_full.tif",
+          "width": "11892",
+          "height": "10652",
+          "filesize": "380050068"
+        },
+        "date_created": "2022-12-16T13:34:14",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt2_web.jpg",
+          "width": "900",
+          "height": "799",
+          "filesize": "237336"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt2_print.jpg",
+          "width": "3400",
+          "height": "3018",
+          "filesize": "4060044"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt2_full.tif",
+          "width": "12002",
+          "height": "10652",
+          "filesize": "383565464"
+        },
+        "date_created": "2022-12-16T13:36:24",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt3_web.jpg",
+          "width": "900",
+          "height": "807",
+          "filesize": "198075"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt3_print.jpg",
+          "width": "3400",
+          "height": "3050",
+          "filesize": "3909485"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt3_full.tif",
+          "width": "11874",
+          "height": "10652",
+          "filesize": "379474008"
+        },
+        "date_created": "2022-12-16T13:38:53",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt4_web.jpg",
+          "width": "900",
+          "height": "808",
+          "filesize": "170152"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt4_print.jpg",
+          "width": "3400",
+          "height": "3052",
+          "filesize": "3950983"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt4_full.tif",
+          "width": "11865",
+          "height": "10652",
+          "filesize": "379185588"
+        },
+        "date_created": "2022-12-16T13:41:38",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt5_web.jpg",
+          "width": "900",
+          "height": "808",
+          "filesize": "189367"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt5_print.jpg",
+          "width": "3400",
+          "height": "3052",
+          "filesize": "4342586"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt5_full.tif",
+          "width": "11866",
+          "height": "10652",
+          "filesize": "379217560"
+        },
+        "date_created": "2022-12-16T13:45:04",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt6_web.jpg",
+          "width": "900",
+          "height": "807",
+          "filesize": "209956"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt6_print.jpg",
+          "width": "3400",
+          "height": "3047",
+          "filesize": "5012493"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt6_full.tif",
+          "width": "11886",
+          "height": "10652",
+          "filesize": "379856488"
+        },
+        "date_created": "2022-12-16T13:46:50",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt7_web.jpg",
+          "width": "900",
+          "height": "749",
+          "filesize": "196804"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt7_print.jpg",
+          "width": "3400",
+          "height": "2831",
+          "filesize": "4428386"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt7_full.tif",
+          "width": "12291",
+          "height": "10235",
+          "filesize": "377422656"
+        },
+        "date_created": "2022-12-16T13:48:26",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt8_web.jpg",
+          "width": "900",
+          "height": "689",
+          "filesize": "110305"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt8_print.jpg",
+          "width": "3400",
+          "height": "2602",
+          "filesize": "1863890"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt8_full.tif",
+          "width": "12361",
+          "height": "9460",
+          "filesize": "350832276"
+        },
+        "date_created": "2022-12-16T14:18:09",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt9_web.jpg",
+          "width": "338",
+          "height": "893",
+          "filesize": "217758"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt9_print.jpg",
+          "width": "1287",
+          "height": "3400",
+          "filesize": "3144432"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt9_full.tif",
+          "width": "2524",
+          "height": "6668",
+          "filesize": "50521240"
+        },
+        "date_created": "2010-01-19T14:41:28",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt10_web.jpg",
+          "width": "276",
+          "height": "893",
+          "filesize": "162348"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt10_print.jpg",
+          "width": "1051",
+          "height": "3400",
+          "filesize": "2320303"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt10_full.tif",
+          "width": "1942",
+          "height": "6285",
+          "filesize": "36647620"
+        },
+        "date_created": "2010-01-19T13:34:14",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt11_web.jpg",
+          "width": "1123",
+          "height": "893",
+          "filesize": "657576"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt11_print.jpg",
+          "width": "3400",
+          "height": "2703",
+          "filesize": "8212214"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt11_full.tif",
+          "width": "6110",
+          "height": "4857",
+          "filesize": "89060392"
+        },
+        "date_created": "2010-01-19T14:49:15",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt12_web.jpg",
+          "width": "1100",
+          "height": "893",
+          "filesize": "614532"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt12_print.jpg",
+          "width": "3400",
+          "height": "2761",
+          "filesize": "7481844"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt12_full.tif",
+          "width": "6148",
+          "height": "4992",
+          "filesize": "92103728"
+        },
+        "date_created": "2010-01-19T14:59:31",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt13_web.jpg",
+          "width": "1097",
+          "height": "893",
+          "filesize": "722149"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt13_print.jpg",
+          "width": "3400",
+          "height": "2768",
+          "filesize": "7804688"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt13_full.tif",
+          "width": "6132",
+          "height": "4992",
+          "filesize": "91866676"
+        },
+        "date_created": "2010-01-19T15:02:39",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt14_web.jpg",
+          "width": "1127",
+          "height": "893",
+          "filesize": "774657"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt14_print.jpg",
+          "width": "3400",
+          "height": "2695",
+          "filesize": "7789126"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt14_full.tif",
+          "width": "6160",
+          "height": "4883",
+          "filesize": "90272596"
+        },
+        "date_created": "2010-01-19T15:10:08",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt15_web.jpg",
+          "width": "645",
+          "height": "893",
+          "filesize": "539383"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt15_print.jpg",
+          "width": "2456",
+          "height": "3400",
+          "filesize": "7206120"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt15_full.tif",
+          "width": "2788",
+          "height": "3859",
+          "filesize": "32310180"
+        },
+        "date_created": "2010-01-19T15:51:00",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt16_web.jpg",
+          "width": "1263",
+          "height": "881",
+          "filesize": "1020634"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt16_print.jpg",
+          "width": "3400",
+          "height": "2372",
+          "filesize": "6833860"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt16_full.tif",
+          "width": "3848",
+          "height": "2684",
+          "filesize": "31017228"
+        },
+        "date_created": "2010-01-19T15:56:06",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt17_web.jpg",
+          "width": "735",
+          "height": "893",
+          "filesize": "583508"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt17_print.jpg",
+          "width": "2799",
+          "height": "3400",
+          "filesize": "7246321"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt17_full.tif",
+          "width": "3388",
+          "height": "4116",
+          "filesize": "41867916"
+        },
+        "date_created": "2010-01-19T16:01:10",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt18_web.jpg",
+          "width": "511",
+          "height": "893",
+          "filesize": "402955"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt18_print.jpg",
+          "width": "1947",
+          "height": "3400",
+          "filesize": "5564735"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt18_full.tif",
+          "width": "3300",
+          "height": "5764",
+          "filesize": "57096008"
+        },
+        "date_created": "2010-01-19T16:49:47",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt19_web.jpg",
+          "width": "484",
+          "height": "893",
+          "filesize": "361919"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt19_print.jpg",
+          "width": "1842",
+          "height": "3400",
+          "filesize": "5180793"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt19_full.tif",
+          "width": "3396",
+          "height": "6267",
+          "filesize": "63879476"
+        },
+        "date_created": "2010-01-19T16:58:08",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt20_web.jpg",
+          "width": "352",
+          "height": "893",
+          "filesize": "220256"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt20_print.jpg",
+          "width": "1342",
+          "height": "3400",
+          "filesize": "3147952"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt20_full.tif",
+          "width": "6668",
+          "height": "16896",
+          "filesize": "338023044"
+        },
+        "date_created": "2010-01-19T15:39:52",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt21_web.jpg",
+          "width": "359",
+          "height": "893",
+          "filesize": "225428"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt21_print.jpg",
+          "width": "1368",
+          "height": "3400",
+          "filesize": "3082835"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt21_full.tif",
+          "width": "2768",
+          "height": "6880",
+          "filesize": "57153700"
+        },
+        "date_created": "2009-12-08T23:29:55",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt22_web.jpg",
+          "width": "401",
+          "height": "893",
+          "filesize": "252385"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt22_print.jpg",
+          "width": "1527",
+          "height": "3400",
+          "filesize": "3818731"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt22_full.tif",
+          "width": "1796",
+          "height": "4000",
+          "filesize": "21573212"
+        },
+        "date_created": "2009-12-08T23:30:14",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt23_web.jpg",
+          "width": "195",
+          "height": "893",
+          "filesize": "145189"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt23_print.jpg",
+          "width": "742",
+          "height": "3400",
+          "filesize": "2167083"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt23_full.tif",
+          "width": "1408",
+          "height": "6448",
+          "filesize": "27257564"
+        },
+        "date_created": "2009-12-08T23:30:29",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt24_web.jpg",
+          "width": "323",
+          "height": "893",
+          "filesize": "251404"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt24_print.jpg",
+          "width": "1230",
+          "height": "3400",
+          "filesize": "3309290"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt24_full.tif",
+          "width": "1840",
+          "height": "5088",
+          "filesize": "28106972"
+        },
+        "date_created": "2009-12-08T23:30:45",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt25_web.jpg",
+          "width": "796",
+          "height": "893",
+          "filesize": "629294"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt25_print.jpg",
+          "width": "3029",
+          "height": "3400",
+          "filesize": "7701185"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt25_full.tif",
+          "width": "3136",
+          "height": "3520",
+          "filesize": "33137372"
+        },
+        "date_created": "2009-12-08T23:31:02",
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt26_web.jpg",
+          "width": "353",
+          "height": "893",
+          "filesize": "30261"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt26_print.jpg",
+          "width": "810",
+          "height": "2048",
+          "filesize": "147824"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt26_full.tif",
+          "width": "810",
+          "height": "2048",
+          "filesize": "157243"
+        },
+        "annotation": ""
+      },
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt27_web.jpg",
+          "width": "281",
+          "height": "900",
+          "filesize": "84695"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt27_print.jpg",
+          "width": "1063",
+          "height": "3400",
+          "filesize": "914645"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1971.132/1971.132_alt27_full.tif",
+          "width": "14237",
+          "height": "45516",
+          "filesize": "1944060764"
+        },
+        "annotation": ""
+      }
+    ],
+    "creditline": "Purchase from the J. H. Wade Fund",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 145907,
+    "creators": [
+      {
+        "id": 31453,
+        "description": "Liu Shanshou (Chinese, active 1300s)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": "\u5289\u5584\u5b88",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1971-09-08T00:00:00",
+    "sortable_date": 1300,
+    "date_added_to_oa": null,
+    "date_text": "1300s",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-05-29 07:29:16.290000"
+  }
+}

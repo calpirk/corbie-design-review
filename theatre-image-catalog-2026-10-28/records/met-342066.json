@@ -1,0 +1,93 @@
+{
+  "objectID": 342066,
+  "isHighlight": false,
+  "accessionNumber": "1972.713.64",
+  "accessionYear": "1972",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820200.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820200.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74003,
+      "role": "Artist",
+      "name": "Workshop of Giuseppe Galli Bibiena",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028721",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q872778",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Design for a Stage Set",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "Workshop of",
+  "artistDisplayName": "Giuseppe Galli Bibiena",
+  "artistDisplayBio": "Italian, Parma 1696\u20131756 Berlin",
+  "artistSuffix": "",
+  "artistAlphaSort": "Bibiena, Giuseppe Galli",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1696",
+  "artistEndDate": "1756",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q872778",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028721",
+  "objectDate": "1696\u20131756",
+  "objectBeginDate": 1696,
+  "objectEndDate": 1756,
+  "medium": "Pen and brown ink, brush and gray wash, over black chalk",
+  "dimensions": "17-1/2 x 22-1/4 in.  (44.5 x 56.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 44.5,
+        "Width": 56.5
+      }
+    }
+  ],
+  "creditLine": "Bequest of Joseph H. Durkee, by exchange, 1972",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/342066",
+  "tags": [
+    {
+      "term": "Interiors",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+    },
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Stage Design",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435128",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q55619117"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

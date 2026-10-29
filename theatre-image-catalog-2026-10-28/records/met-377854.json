@@ -1,0 +1,98 @@
+{
+  "objectID": 377854,
+  "isHighlight": false,
+  "accessionNumber": "80.3.557",
+  "accessionYear": "1880",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP801284.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP801284.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 74003,
+      "role": "Artist",
+      "name": "Giuseppe Galli Bibiena",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028721",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q872778",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Design for a Stage Set with a Monumental Arcaded Courtyard",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Giuseppe Galli Bibiena",
+  "artistDisplayBio": "Italian, Parma 1696\u20131756 Berlin",
+  "artistSuffix": ", Attributed to.",
+  "artistAlphaSort": "Bibiena, Giuseppe Galli",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1696",
+  "artistEndDate": "1756",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q872778",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500028721",
+  "objectDate": "early 18th century",
+  "objectBeginDate": 1710,
+  "objectEndDate": 1756,
+  "medium": "Pen and brown ink, with brush and gray wash",
+  "dimensions": "sheet: 11 3/4 x 13 3/8 in. (29.8 x 34 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 29.8451,
+        "Width": 33.9726
+      }
+    }
+  ],
+  "creditLine": "Gift of Cornelius Vanderbilt, 1880",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/377854",
+  "tags": [
+    {
+      "term": "Arches",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+    },
+    {
+      "term": "Columns",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+    },
+    {
+      "term": "Courtyards",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q309250"
+    },
+    {
+      "term": "Stage Design",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300435128",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q55619117"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

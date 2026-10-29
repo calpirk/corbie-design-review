@@ -1,0 +1,93 @@
+{
+  "objectID": 387521,
+  "isHighlight": false,
+  "accessionNumber": "2010.449",
+  "accessionYear": "2009",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP812480.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP812480.jpg",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 163149,
+      "role": "Artist",
+      "name": "Louis L\u00e9opold Boilly",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023946",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q715909",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Group of Artists in Jean-Baptiste Isabey's Studio",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Louis L\u00e9opold Boilly",
+  "artistDisplayBio": "French, La Bass\u00e9e 1761\u20131845 Paris",
+  "artistSuffix": "",
+  "artistAlphaSort": "Boilly, Louis L\u00e9opold",
+  "artistNationality": "French",
+  "artistBeginDate": "1761",
+  "artistEndDate": "1845",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q715909",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023946",
+  "objectDate": "ca. 1798",
+  "objectBeginDate": 1793,
+  "objectEndDate": 1803,
+  "medium": "Cont\u00e9 crayon, stumping, heightened with white chalk",
+  "dimensions": "sheet: 15 3/8 x 21 3/8 in. (39 x 54.3 cm)",
+  "measurements": [
+    {
+      "elementName": "Sheet",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 39,
+        "Width": 54.3
+      }
+    }
+  ],
+  "creditLine": "Anonymous Gift, 2010",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-03-06T04:54:30Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/387521",
+  "tags": [
+    {
+      "term": "Men",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+    },
+    {
+      "term": "Women",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+    },
+    {
+      "term": "Artists",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

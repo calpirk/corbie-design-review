@@ -1,0 +1,155 @@
+{
+  "data": {
+    "id": 95401,
+    "accession_number": "1916.1154",
+    "share_license_status": "CC0",
+    "tombstone": "Perspective View of the Interior of the Nakamura Theater with Ichikawa Ebizo II as Yanone Goro, 1740. Okumura Masanobu (Japanese, 1686\u20131764). Hand-colored woodblock print; sheet: 40.2 x 63.7 cm (15 13/16 x 25 1/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1154",
+    "current_location": null,
+    "title": "Perspective View of the Interior of the Nakamura Theater with Ichikawa Ebizo II as Yanone Goro",
+    "creation_date": "1740",
+    "creation_date_earliest": 1740,
+    "creation_date_latest": 1740,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "Japan, Edo period (1615\u20131868)"
+    ],
+    "technique": "hand-colored woodblock print",
+    "support_materials": [],
+    "department": "Japanese Art",
+    "collection": "Japanese Art",
+    "type": "Print",
+    "measurements": "Sheet: 40.2 x 63.7 cm (15 13/16 x 25 1/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.402,
+        "height_inch": 15,
+        "height_inch_fraction": 0.8125,
+        "width": 0.637,
+        "width_inch": 25,
+        "width_inch_fraction": 0.0625
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 357023,
+          "title": "Japanese Prints from the Museum Collection",
+          "description": "<i>Japanese Prints from the Museum Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 5-October 28, 1934).",
+          "opening_date": "1934-09-05T04:00:00"
+        },
+        {
+          "id": 304431,
+          "title": "Japanese Woodblock Prints: Themes and Techniques",
+          "description": "<i>Japanese Woodblock Prints: Themes and Techniques</i>. The Cleveland Museum of Art (organizer) (September 3-October 19, 1980).",
+          "opening_date": "1980-09-03T04:00:00"
+        },
+        {
+          "id": 309887,
+          "title": "The Twain Shall Meet",
+          "description": "<i>The Twain Shall Meet</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 30, 1985-January 5, 1986).",
+          "opening_date": "1985-10-30T05:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Visions of Japan: Prints and Paintings from Cleveland Collections.</em> The Cleveland Museum of Art, Cleveland, OH (December 12, 2004- April 10, 2005).",
+          "opening_date": "2004-12-12T00:00:00"
+        }
+      ]
+    },
+    "provenance": [],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": null,
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "The print illustrates the typical interior of a Kabuki theater. The stage was connected to the audience by the <em>hanamichi</em>, the ramp or runway extending from the stage to the rear of the theater over which the actors would strut in dramatic roles. Patrons often stayed all day for the plays. Unlike quiet Western audiences, Kabuki fans were spirited, buying food from vendors and even shouting praises to their favorite actors as they came onto the stage. In 1734, the first Japanese manual on perspective was printed. Masanobu was probably the first printmaker to use this method of describing three-dimensional space on a two-dimensional support. He helped popularize the perspective print, and he introduced other innovations such as two-color printing and hand-coloring\u2014this print is hand-colored using yellow, red (tan), and red-brown.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79476819"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1916.1154-perspective-view-of"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Neils, Jenifer. \u201cThe Twain Shall Meet.\u201d <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 72, no. 6, 1985, pp. 326\u2013359.",
+        "page_number": "Reproduced: p. 354, fig. 58",
+        "url": "https://www.jstor.org/stable/25159914"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1916.1154",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1154/1916.1154_web.jpg",
+        "width": "1263",
+        "height": "791",
+        "filesize": "943767",
+        "filename": "1916.1154_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1154/1916.1154_print.jpg",
+        "width": "3400",
+        "height": "2129",
+        "filesize": "6182770",
+        "filename": "1916.1154_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.1154/1916.1154_full.tif",
+        "width": "5412",
+        "height": "3389",
+        "filesize": "55055772",
+        "filename": "1916.1154_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Gift of Mr. and Mrs. J. H. Wade",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 95401,
+    "creators": [
+      {
+        "id": 32771,
+        "description": "Okumura Masanobu (Japanese, 1686\u20131764)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": "\u5965\u6751 \u653f\u4fe1",
+        "birth_year": "1686",
+        "death_year": "1764",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1916-12-05T00:00:00",
+    "sortable_date": 1740,
+    "date_added_to_oa": null,
+    "date_text": "1740",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-05-29 05:06:56.927000"
+  }
+}

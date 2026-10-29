@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "id": "1170022748_object",
+      "created": "2020-03-21T12:41:05Z",
+      "modified": "2025-07-11T17:36:01Z",
+      "backside_protection": true,
+      "collection": [
+        ""
+      ],
+      "acquisition_date": "1739-03-16T00:00:00Z",
+      "acquisition_date_precision": "1739-03-16",
+      "dimensions": [
+        {
+          "notes": "1170 x 1465 mm",
+          "part": "Netto",
+          "type": "height",
+          "unit": "cm",
+          "value": "117"
+        },
+        {
+          "notes": "1170 x 1465 mm",
+          "part": "Netto",
+          "type": "width",
+          "unit": "cm",
+          "value": "146.5"
+        },
+        {
+          "notes": "1320 x 1684 x 78 mm",
+          "part": "Brutto",
+          "type": "height",
+          "unit": "cm",
+          "value": "132"
+        },
+        {
+          "notes": "1320 x 1684 x 78 mm",
+          "part": "Brutto",
+          "type": "width",
+          "unit": "cm",
+          "value": "168.4"
+        },
+        {
+          "notes": "1320 x 1684 x 78 mm",
+          "part": "Brutto",
+          "type": "depth",
+          "unit": "cm",
+          "value": "7.8"
+        }
+      ],
+      "documentation": [
+        {
+          "title": "Barok. 1600-tallets kunst i SMK's samlinger",
+          "author": "Eva de la Fuente Pedersen",
+          "notes": "omt. p. 116, afb. p. 117, katalog p. 210",
+          "year_of_publication": "2023"
+        },
+        {
+          "title": "Gerrit van Honthorst: 1592 - 1656",
+          "author": "J. Richard Judson",
+          "notes": "ill (farve) planche XXII, ill. fig. 173 (s/h), p.225 kat.288 (Billedet introducerede en ny type allegorisk genremaleri til Utrecht og Nederlandene hvor scenerne var mere rolige og intime. Temaet i dette maleri er formentlig \"H\u00f8relsen\")",
+          "shelfmark": "2000-009",
+          "year_of_publication": "1999"
+        },
+        {
+          "title": "Rembrandt, Caravaggio",
+          "author": "Duncan Bull",
+          "notes": "Omt. p. 189 i afsnittet om Caravaggio, Caravaggism and Rembrandt, afb. p. 189. fig. 87",
+          "shelfmark": "2006-166",
+          "year_of_publication": "2006"
+        },
+        {
+          "title": "Gerrit van Honthorst: A Discussion of his Position in Dutch Art",
+          "author": "J. Richard Judson",
+          "notes": "kat. 197, fig. 25",
+          "shelfmark": "26512",
+          "year_of_publication": "1959"
+        },
+        {
+          "title": "Rembrandt och hans tid: m\u00e4nniskan i centrum",
+          "author": "M\u00e5rten Snickare",
+          "notes": "nr. 7 (p. 116), afb. farve planche p. 117",
+          "shelfmark": "54904",
+          "year_of_publication": "1992"
+        },
+        {
+          "title": "Christian IV og Europa: den 19. Europar\u00e5dsudstilling, Danmark 1988",
+          "author": "Steffen Heiberg",
+          "notes": "Olaf Koester, Christian IV og billedkunstens Europa, p. 321 f. kat.nr. 1039",
+          "shelfmark": "88-222",
+          "year_of_publication": "1988"
+        },
+        {
+          "title": "Caravaggism in Europe",
+          "author": "Benedict Nicolson",
+          "notes": "vol. I: p. 125 (kat.tekst), vol. III: fig. 1268",
+          "shelfmark": "91-353",
+          "year_of_publication": "1990"
+        },
+        {
+          "title": "Masters of light: Dutch painters in Utrecht during the Golden Age",
+          "author": "Joaneath Spicer",
+          "notes": "p.14, p.22, p.28, p.116, p.117, p.236-237 kat. 35, ill. p.237 (farve), p.253",
+          "shelfmark": "98-052",
+          "year_of_publication": "1997"
+        },
+        {
+          "title": "Caravaggio e l'Europa: il movimento caravaggesco internazionale da Caravaggio a Mattia Preti",
+          "author": "Vittorio Sgarbi",
+          "notes": "Omtalt i Kap. V, p. 374, hollandske og flamske kunstnere. Afb. p. 375",
+          "shelfmark": "C 30115 B",
+          "year_of_publication": "2005"
+        },
+        {
+          "title": "Caravaggio in Holland: Musik und Genre bei Caravaggio und den Utrechter Caravaggisten",
+          "author": "Jochen Sander",
+          "notes": "kat. nr. 33, omt. p. 168, ill. p. 168-169",
+          "shelfmark": "C 43993",
+          "year_of_publication": "2009"
+        },
+        {
+          "title": "Holl\u00e4ndsk guld\u00e5lder: Rembrandt, fran Hals och deras samtida",
+          "author": "G\u00f6rel Cavalli-Bj\u00f6rkman",
+          "notes": "afb. p. 26, omt. p. 29",
+          "shelfmark": "D 31440",
+          "year_of_publication": "2005"
+        },
+        {
+          "title": "Bulletin",
+          "author": "Ubekendt",
+          "notes": "Benedict Nicholson: Terbrugghen's Old man writing, Bulletin number 38, 1958, pp. 52-57. Omtalt p. 56 note 12",
+          "shelfmark": "D 38151 ti",
+          "year_of_publication": "1926-"
+        },
+        {
+          "title": "Abraham Janssens. Zur Problematik des fl\u00e4mischen Caravaggismus",
+          "author": "J. M\u00fcller Hofstede",
+          "notes": "p. 298f"
+        },
+        {
+          "title": "Judith Leyster: a Dutch master and her world",
+          "author": "James A. Welu",
+          "notes": "Afb. p. 224, omt. p. 224",
+          "shelfmark": "93-442",
+          "year_of_publication": "c1993"
+        }
+      ],
+      "exhibitions": [
+        {
+          "exhibition": "At krydse gr\u00e6nser - Spot p\u00e5 Europ\u00e6isk Kunst 1300-1800",
+          "date_start": "2017-08-12T00:00:00.000Z",
+          "date_end": "2017-11-26T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Caravaggio in Holland. The Utrecht Caravaggists and Their Musician and Brothel Scenes",
+          "date_start": "2009-04-01T00:00:00.000Z",
+          "date_end": "2009-07-26T00:00:00.000Z",
+          "venue": "St\u00e4delsches Kunstinstitut Frankfurt am Main"
+        },
+        {
+          "exhibition": "Christian IV og Europa : den 19. Europar\u00e5dsudstilling",
+          "date_start": "1988-03-30T00:00:00.000Z",
+          "date_end": "1988-09-25T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Holl\u00e4ndsk guld\u00e5lder",
+          "date_start": "2005-09-22T00:00:00.000Z",
+          "date_end": "2006-01-08T00:00:00.000Z",
+          "venue": "Nationalmuseum, Stockholm"
+        },
+        {
+          "exhibition": "Barok - Ud af m\u00f8rket",
+          "date_start": "2023-05-27T00:00:00.000Z",
+          "date_end": "2023-11-05T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        }
+      ],
+      "inscriptions": [
+        {
+          "content": "G Honthorst.fe.1623.",
+          "type": "signature"
+        }
+      ],
+      "labels": [
+        {
+          "text": "A silver candlestick stands on a table that is laden with tasty treats for a merry evening of music. Three figures are shown singing from a sheet of music while a fourth partici-pant is playing the lute. The sheet music covers the can-dle, but we are left in no doubt that it is there, for it is the only source of light in the scene. At the age of 24 (in 1616) Hon-thorst was in the church Santa Maria del Popolo in Rome, copying Caravaggio\u2019s large altarpiece depicting the Crucifixion of Saint Peter. Honthorst soon mastered the Caravaggian nocturnal scenes with their dramatic lighting, earning him the nickname \u2018Gherardo delle Notti\u2019 (Gerhard of the Nights). Honthorst returned to his na-tive Utrecht in 1620, where he set up a large workshop with many students. Their number included Matthias Stom and Gerard van Kuijl.",
+          "type": "EXHIBITIONTEXT",
+          "source": "Eva de la Fuente Pedersen",
+          "date": "2017-02-01T00:00:00.000Z"
+        }
+      ],
+      "materials": [
+        "canvas"
+      ],
+      "object_names": [
+        {
+          "name": "Painting"
+        }
+      ],
+      "production": [
+        {
+          "creator": "Honthorst, Gerard van",
+          "creator_forename": "Gerard van",
+          "creator_surname": "Honthorst",
+          "creator_date_of_birth": "1592-11-04T00:00:00.000Z",
+          "creator_date_of_death": "1656-04-27T00:00:00.000Z",
+          "creator_nationality": "Dutch",
+          "creator_gender": "MALE",
+          "creator_history": "Gerrit van Honthorst fik af Christian IV i anledning af Det store Bilager 1634 (den udvalgte prins Christians form\u00e6ling med Magdalena Sibylla af Sachsen) bestilling p\u00e5 udsmykningen af Kongens Kammer p\u00e5 Kronborg. De valgte scener fra Heliodors roman Aethiopica kan da ogs\u00e5 opfattes som allegorier p\u00e5 den fyrstelige form\u00e6ling. I 1639 fik H. udbetalt 37.000 gylden af Christian IV for 25 billeder fra de danske kongers historie. Fortegningerne skulle udf\u00f8res af Utrecht- kobberstikkeren Simon de Pas, der ligeledes var i den danske konges tjeneste. De f\u00e6drelandshistoriske billeder blev i 1659 bortf\u00f8rt af svenskerne som krigbytte, hvorfor en del stadig er at finde i svenske offentlige (is\u00e6r de kgl. slotte) og private samlinger. H. var en meget efterspurgt portr\u00e6tmaler, bl.a. ved hofferne i England og Nederlandene. Da Christian IVs datter Leonore Christine ledsagede sin mand Corfitz Ulfeldt p\u00e5 en rejse i Frankrig og Nederlandene 1646-47, lod hun sig i Utrecht portr\u00e6ttere af H. Alle de til Danmark udf\u00f8rte arbejder er malet i en klassicerende stil, kun med svage mindelser fra H.s tidligere, st\u00e6rkt Caravaggio-p\u00e5virkede stil. Eksempler fra denne periode findes ogs\u00e5 i danske samlinger, bl.a. Musicerende selskab omkring et bord, et karakteristisk \"natstykke\" med anvendelse af en t\u00e6llepr\u00e5s som eneste lyskilde.",
+          "creator_lref": "2619_person"
+        }
+      ],
+      "production_date": [
+        {
+          "start": "1623-01-01T00:00:00.000Z",
+          "end": "1623-12-31T00:00:00.000Z",
+          "period": "1623"
+        }
+      ],
+      "techniques": [
+        "Oil on canvas"
+      ],
+      "titles": [
+        {
+          "title": "Musical Group by Candlelight",
+          "language": "engelsk"
+        }
+      ],
+      "number_of_parts": 1,
+      "object_number": "KMSsp378",
+      "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp378",
+      "frontend_url": "https://open.smk.dk/artwork/image/KMSsp378",
+      "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp378",
+      "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp378",
+      "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp378",
+      "production_dates_notes": [
+        "V\u00e6rkdatering: 1623"
+      ],
+      "public_domain": true,
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "on_display": false,
+      "alternative_images": [
+        {
+          "mime_type": "image/tiff",
+          "iiif_id": "https://iip.smk.dk/iiif/jp2/ws859g62f_KMSKMSsp378.tif.jp2",
+          "iiif_info": "https://iip.smk.dk/iiif/jp2/ws859g62f_KMSKMSsp378.tif.jp2/info.json",
+          "width": 4252,
+          "height": 3319,
+          "size": 14607516.551724138,
+          "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/ws859g62f_KMSKMSsp378.tif.jp2/full/!1024,/0/default.jpg",
+          "native": "https://iip.smk.dk/iiif/jp2/ws859g62f_KMSKMSsp378.tif.jp2/full/full/0/native.jpg",
+          "orientation": "landscape"
+        },
+        {
+          "mime_type": "image/tiff",
+          "iiif_id": "https://iip.smk.dk/iiif/jp2/37720g69d_KMSKMSsp378-cropped.tif.jp2",
+          "iiif_info": "https://iip.smk.dk/iiif/jp2/37720g69d_KMSKMSsp378-cropped.tif.jp2/info.json",
+          "width": 3847,
+          "height": 3113,
+          "size": 12397000,
+          "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/37720g69d_KMSKMSsp378-cropped.tif.jp2/full/!1024,/0/default.jpg",
+          "native": "https://iip.smk.dk/iiif/jp2/37720g69d_KMSKMSsp378-cropped.tif.jp2/full/full/0/native.jpg",
+          "orientation": "landscape"
+        }
+      ],
+      "image_mime_type": "image/tiff",
+      "image_iiif_id": "https://iip.smk.dk/iiif/jp2/3n2042826_kmssp378.tif.jp2",
+      "image_iiif_info": "https://iip.smk.dk/iiif/jp2/3n2042826_kmssp378.tif.jp2/info.json",
+      "image_width": 13052,
+      "image_height": 9766,
+      "image_size": 131869313,
+      "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/3n2042826_kmssp378.tif.jp2/full/!1024,/0/default.jpg",
+      "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8zbjIwNDI4MjZfa21zc3AzNzgudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3NwMzc4IiwibnVtIjoiIn1d/KMSsp378.jpg",
+      "image_cropped": true,
+      "image_orientation": "landscape",
+      "image_hq": true,
+      "has_3d_file": false,
+      "has_image": true,
+      "colors": [
+        "#111111",
+        "#222222",
+        "#191909",
+        "#77733d",
+        "#fcaa6b",
+        "#555555"
+      ],
+      "suggested_bg_color": [
+        "#77733d"
+      ],
+      "entropy": 8.646515,
+      "contrast": 2.49749,
+      "saturation": 1.7646884,
+      "colortemp": 3.9315436,
+      "brightness": 2.682665,
+      "artist": [
+        "Gerard van Honthorst"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "items": [
+    {
+      "id": "1170091838_object",
+      "created": "2020-03-22T02:08:00Z",
+      "modified": "2025-07-11T18:10:06Z",
+      "backside_protection": true,
+      "collection": [
+        ""
+      ],
+      "current_location_name": "Sal 206",
+      "current_location_date": "2024-11-25T00:00:00Z",
+      "acquisition_date": "1668-01-01T00:00:00Z",
+      "acquisition_date_precision": "1672-12-31",
+      "dimensions": [
+        {
+          "notes": "1320 x 1990 mm",
+          "part": "Netto",
+          "type": "height",
+          "unit": "cm",
+          "value": "132"
+        },
+        {
+          "notes": "1320 x 1990 mm",
+          "part": "Netto",
+          "type": "width",
+          "unit": "cm",
+          "value": "199"
+        },
+        {
+          "notes": "1444 x 2100 x 59 mm",
+          "part": "Brutto",
+          "type": "height",
+          "unit": "cm",
+          "value": "144.4"
+        },
+        {
+          "notes": "1444 x 2100 x 59 mm",
+          "part": "Brutto",
+          "type": "width",
+          "unit": "cm",
+          "value": "210"
+        },
+        {
+          "notes": "1444 x 2100 x 59 mm",
+          "part": "Brutto",
+          "type": "depth",
+          "unit": "cm",
+          "value": "5.9"
+        }
+      ],
+      "documentation": [
+        {
+          "title": "Painted illusions: the art of Cornelius Gijsbrechts",
+          "author": "Olaf Koester",
+          "notes": "p.26-31 (som pendant til KMSst461) afb. p.29 (farve) kat.no.7",
+          "shelfmark": "2000-432",
+          "year_of_publication": "2000"
+        },
+        {
+          "title": "Das fl\u00e4mische Stillleben 1550-1680",
+          "author": "Ubekendt",
+          "notes": "kat. 37 p. 126. Ill. p. 127 (farve).",
+          "shelfmark": "2002-182",
+          "year_of_publication": "2002"
+        },
+        {
+          "title": "Cornelius Gijsbrechts: og perspektivkammeret i Det Kongelige Danske Kunstkammer",
+          "author": "Eva de la Fuente Pedersen",
+          "notes": "omt. p. 95-96, afb. p. 97 (fig. 12)",
+          "shelfmark": "2005-265",
+          "year_of_publication": "2005"
+        },
+        {
+          "title": "L'art de l'autoportrait: histoire et th\u00e9orie d'un genre pictural",
+          "author": "Omar Calabrese",
+          "notes": "Omt. og Afb. p. 346-47",
+          "shelfmark": "2006-129",
+          "year_of_publication": "2006"
+        },
+        {
+          "title": "Cornelius Norbertus Gijsbrechts og Franciskus Gijsbrechts",
+          "author": "Poul Gammelbo",
+          "notes": "fort. 25, dat. \"1671\", p. 133-36, 137 (fig. 6)",
+          "shelfmark": "23796",
+          "year_of_publication": "1956"
+        },
+        {
+          "title": "Geweven boeket",
+          "author": "Ubekendt",
+          "notes": "kat.nr. 47, afb. p. 74",
+          "shelfmark": "36563",
+          "year_of_publication": "1972"
+        },
+        {
+          "title": "Stilleben in Europa: Westf\u00e4lisches Landesmuseum f\u00fcr Kunst und Kulturgeschichte M\u00fcnster, 25.11.1979 - 24.2.1980: Staatliche Kunsthalle, Baden-Baden, 15.3. - 15.6.1980. M\u00fcnster: Westf\u00e4lisches Landesmuseum f\u00fcr Kunst und Kulturgeschichte",
+          "author": "Ubekendt",
+          "notes": "kat.nr. 240 (afb. p. 465)",
+          "shelfmark": "63361",
+          "year_of_publication": "1979"
+        },
+        {
+          "title": "Dutch still-life painting from the 16th to the 18th centuries in Danish collections",
+          "author": "Poul Gammelbo",
+          "notes": "no. 257 (afb.) (\"painted 1671\")",
+          "shelfmark": "91-136",
+          "year_of_publication": "1960"
+        },
+        {
+          "title": "Illusions: Gijsbrechts",
+          "author": "Olaf Koester",
+          "notes": "p. 38-40, 170, kat. 14 p. 172-175, afb. (f) p. 173, omt. p. 178",
+          "shelfmark": "99-432",
+          "year_of_publication": "1999"
+        },
+        {
+          "title": "Dansk kunst",
+          "author": "Ubekendt",
+          "notes": "Dansk kunst 2000, omt. og afb. p. 63",
+          "shelfmark": "C 26792 ti",
+          "year_of_publication": "1984-"
+        },
+        {
+          "title": "Hollandsk buket: Jubil\u00e6umsudstilling p\u00e5 Kunstindustrimuseet",
+          "author": "Vibeke Woldbye",
+          "notes": "nr. 39",
+          "shelfmark": "eks22 Jan 2002 12:11:39:687"
+        },
+        {
+          "title": "Hollandske blomstert\u00e6pper i Danmark",
+          "author": "Vibeke Woldbye",
+          "notes": "p. 64, afb. fig. 15",
+          "year_of_publication": "1969"
+        }
+      ],
+      "exhibitions": [
+        {
+          "exhibition": "At krydse gr\u00e6nser - Spot p\u00e5 Europ\u00e6isk Kunst 1300-1800",
+          "date_start": "2017-08-12T00:00:00.000Z",
+          "date_end": "2017-11-26T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Das fl\u00e4mische Stilleben 1550-1680",
+          "date_start": "2002-03-18T00:00:00.000Z",
+          "date_end": "2002-07-21T00:00:00.000Z",
+          "venue": "Kunsthistorisches Museum"
+        },
+        {
+          "exhibition": "Das fl\u00e4mische Stilleben 1550-1680",
+          "date_start": "2002-08-31T00:00:00.000Z",
+          "date_end": "2002-12-07T00:00:00.000Z",
+          "venue": "Kulturstiftung Ruhr"
+        },
+        {
+          "exhibition": "The Eye Deceived - Trompe l'oeil paintings by Cornelius Gijsbrechts",
+          "date_start": "2005-02-04T00:00:00.000Z",
+          "date_end": "2005-05-29T00:00:00.000Z",
+          "venue": "Mauritshuis, Den Haag"
+        },
+        {
+          "exhibition": "Bl\u00e6ndv\u00e6rker",
+          "date_start": "1999-09-24T00:00:00.000Z",
+          "date_end": "1999-12-30T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        },
+        {
+          "exhibition": "Bl\u00e6ndv\u00e6rker",
+          "date_start": "2000-02-01T00:00:00.000Z",
+          "date_end": "2000-04-30T00:00:00.000Z",
+          "venue": "National Gallery, London"
+        },
+        {
+          "exhibition": "Clinch!",
+          "date_start": "2004-04-01T00:00:00.000Z",
+          "date_end": "2004-11-28T00:00:00.000Z",
+          "venue": "SMK K\u00f8benhavn"
+        }
+      ],
+      "inscriptions": [
+        {
+          "content": "[Betegnet p\u00e5 seddel p\u00e5 hylden:] Monsieur/Mons Cornelius Gijsbrechts/Contervijer v. Ihr K\u00f6nigl/Mayt von Dannemarck/Coppenhagen",
+          "type": "Inscription"
+        }
+      ],
+      "materials": [
+        "canvas"
+      ],
+      "object_names": [
+        {
+          "name": "Painting"
+        }
+      ],
+      "production": [
+        {
+          "creator": "Gijsbrechts, Cornelius Norbertus",
+          "creator_forename": "Cornelius Norbertus",
+          "creator_surname": "Gijsbrechts",
+          "creator_date_of_birth": "1625-01-01T00:00:00.000Z",
+          "creator_date_of_death": "1675-01-01T00:00:00.000Z",
+          "creator_nationality": "Flemish",
+          "creator_gender": "MALE",
+          "creator_history": "Cornelis Gijsbrechts' \u00e6ldste kendte billede er dateret 1660. Han kom til Danmark senest 1668, hvor han p\u00e5 et billede betegner sig som kontrafejer i K\u00f8benhavn. 1670 kaldte han sig kongelig kontrafejer. 1670-72 fik han gentagne gange betaling for malerier, bl.a. til Rosenborg. I Kunstkammerets perspektivsal var der i 1690 tolv \"kunstige\" dvs. trompe l'oeilstykker af G. Det senest daterede billede af ham fra Danmark er fra 1672. Et trompe l'oeil er dateret Stockholm 1673. Det seneste, kendte arbejde af ham er fra 1675. G. malede n\u00e6sten udelukkende trompe l'oeil og vanitasbilleder, genrer der var meget yndet i anden halvdel af 1600-tallet. Stilistisk er hans virkningsfulde illusionsbilleder p\u00e5virket af holl\u00e6nderen Jan Davidz. de Heem. Hans v\u00e6rker er tidligere blevet forvekslet med arbejder af Franciscus Gijsbrechts, der malede samme type illusionistiske billeder, og som antagelig er en sl\u00e6gtning.",
+          "creator_lref": "2588_person"
+        }
+      ],
+      "production_date": [
+        {
+          "start": "1670-01-01T00:00:00.000Z",
+          "end": "1671-12-31T00:00:00.000Z",
+          "period": "1670-1671"
+        }
+      ],
+      "techniques": [
+        "Oil on canvas"
+      ],
+      "titles": [
+        {
+          "title": "Trompe l'oeil. A Cabinet in the Artist's Studio",
+          "language": "engelsk"
+        }
+      ],
+      "number_of_parts": 1,
+      "object_number": "KMSsp812",
+      "object_url": "https://api.smk.dk/api/v1/art?object_number=KMSsp812",
+      "frontend_url": "https://open.smk.dk/artwork/image/KMSsp812",
+      "iiif_manifest": "https://api.smk.dk/api/v1/iiif/manifest?id=KMSsp812",
+      "enrichment_url": "https://enrichment.api.smk.dk/api/enrichment/KMSsp812",
+      "similar_images_url": "https://similar.api.smk.dk/similar/?object_number=KMSsp812",
+      "production_dates_notes": [
+        "V\u00e6rkdatering: 1670-1671",
+        "Se Bl\u00e6ndv\u00e6rker p. 174-175"
+      ],
+      "work_status": [
+        "pendant"
+      ],
+      "public_domain": true,
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "on_display": true,
+      "alternative_images": [
+        {
+          "mime_type": "image/tiff",
+          "iiif_id": "https://iip.smk.dk/iiif/jp2/6682x473q_KMSsp812.tif.jp2",
+          "iiif_info": "https://iip.smk.dk/iiif/jp2/6682x473q_KMSsp812.tif.jp2/info.json",
+          "width": 8160,
+          "height": 8160,
+          "size": 68893335.1724138,
+          "thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/6682x473q_KMSsp812.tif.jp2/full/!1024,/0/default.jpg",
+          "native": "https://iip.smk.dk/iiif/jp2/6682x473q_KMSsp812.tif.jp2/full/full/0/native.jpg",
+          "orientation": "landscape"
+        }
+      ],
+      "image_mime_type": "image/tiff",
+      "image_iiif_id": "https://iip.smk.dk/iiif/jp2/f1881q29x_KMSsp812.tif.reconstructed.tif.jp2",
+      "image_iiif_info": "https://iip.smk.dk/iiif/jp2/f1881q29x_KMSsp812.tif.reconstructed.tif.jp2/info.json",
+      "image_width": 7416,
+      "image_height": 4913,
+      "image_size": 26177664,
+      "image_thumbnail": "https://iip-thumb.smk.dk/iiif/jp2/f1881q29x_KMSsp812.tif.reconstructed.tif.jp2/full/!1024,/0/default.jpg",
+      "image_native": "https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9mMTg4MXEyOXhfS01Tc3A4MTIudGlmLnJlY29uc3RydWN0ZWQudGlmLmpwMi9mdWxsL2Z1bGwvMC9uYXRpdmUuanBnIiwicHVibGljX2RvbWFpbiI6dHJ1ZSwib2JqZWN0X251bWJlciI6IktNU3NwODEyIiwibnVtIjoiIn1d/KMSsp812.jpg",
+      "image_cropped": true,
+      "image_orientation": "landscape",
+      "image_hq": true,
+      "has_3d_file": false,
+      "has_image": true,
+      "colors": [
+        "#431716",
+        "#230b09",
+        "#77733d",
+        "#33140c",
+        "#b97438",
+        "#140604",
+        "#795025",
+        "#ffe7c9"
+      ],
+      "suggested_bg_color": [
+        "#b97438"
+      ],
+      "entropy": 9.763972,
+      "contrast": 3.8007674,
+      "saturation": 5.8893185,
+      "colortemp": 6.091887,
+      "brightness": 3.2561984,
+      "artist": [
+        "Cornelius Norbertus Gijsbrechts"
+      ]
+    }
+  ]
+}

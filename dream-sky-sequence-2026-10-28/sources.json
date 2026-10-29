@@ -1,0 +1,68 @@
+{
+  "source_images": [
+    {
+      "id": "cma-167560",
+      "title": "The Golden Hour",
+      "creator": "Samuel Palmer (British, 1805–1881)",
+      "date": "1865",
+      "medium": "watercolor and gouache with graphite and scraping",
+      "institution": "Cleveland Museum of Art",
+      "object_url": "https://clevelandart.org/art/2009.3",
+      "rights": "CC0 (individual museum record)",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "credit_line": "The Severance and Greta Millikin Purchase Fund",
+      "download_url": "https://openaccess-cdn.clevelandart.org/2009.3/2009.3_print.jpg",
+      "full_download_url": "https://openaccess-cdn.clevelandart.org/2009.3/2009.3_full.tif",
+      "image": "images/cma-167560.jpg",
+      "preview": "previews/cma-167560.jpg",
+      "width": 3400,
+      "height": 2454,
+      "bytes": 8463302,
+      "sha256": "2b17bbb6eeb0c828420d20010b40b86e5e33648542dc4c107691455322ab7754",
+      "source_record": "sources/cma-167560.json",
+      "discovered_via": [
+        "Direct museum collection search"
+      ],
+      "resolution_note": "Museum print JPEG for review; full TIFF download linked separately.",
+      "checked": "2026-10-28",
+      "status": "researched candidate; not approved for publication",
+      "curation_note": "Candidate visual ingredient. Preserve its recorded medium, date, institution and cultural context; use only when it supports the page."
+    },
+    {
+      "id": "pdr-trouvelot-meteors",
+      "title": "The November Meteors",
+      "creator": "Étienne Léopold Trouvelot",
+      "date": "1882 atlas publication",
+      "medium": "Chromolithograph after astronomical observations; not a NASA photograph",
+      "institution": "New York Public Library (source credited by The Public Domain Review)",
+      "object_url": "https://digitalcollections.nypl.org/collections/the-trouvelot-astronomical-drawings-atlas",
+      "discovery_url": "https://publicdomainreview.org/collection/the-trouvelot-astronomical-drawings-1882/",
+      "rights": "Public domain worldwide; digital copy no additional rights, per PDR series record",
+      "rights_url": "https://publicdomainreview.org/collection/the-trouvelot-astronomical-drawings-1882/",
+      "credit_line": "Étienne Léopold Trouvelot; New York Public Library. Retrieved via The Public Domain Review.",
+      "download_url": "https://pdr-assets.b-cdn.net/collections/the-trouvelot-astronomical-drawings-1882/31528823311_b74bb3dbd9_c.jpg",
+      "full_download_url": "https://pdr-assets.b-cdn.net/collections/the-trouvelot-astronomical-drawings-1882/31528823311_b74bb3dbd9_c.jpg",
+      "source_record": "sources/pdr-trouvelot.html",
+      "discovered_via": [
+        "The Public Domain Review, publisher of the Public Domain Image Archive"
+      ],
+      "resolution_note": "Largest image URL exposed in the PDR page HTML; no claim of highest archival resolution.",
+      "verification_note": "Archive rights declaration checked. Direct NYPL collection page returned 403 during this run; distinguish this from direct museum/API verification.",
+      "image": "images/pdr-trouvelot-meteors.jpg",
+      "preview": "previews/pdr-trouvelot-meteors.jpg",
+      "width": 591,
+      "height": 800,
+      "bytes": 67242,
+      "sha256": "2968eee66bc6dbc3fecbf6a5a10902d2776b139ce9ab49dde43ce9e90a51e755",
+      "checked": "2026-10-28",
+      "status": "researched candidate; not approved for publication",
+      "curation_note": "Candidate visual ingredient. Preserve its recorded medium, date, institution and cultural context; use only when it supports the page."
+    }
+  ],
+  "original_vector_work": "Clouds, symbolic sun, crescent moon, stars, birds, clock face and hands are original native SVG studies authored for this concept. Birds are schematic movement placeholders, not historical cutouts.",
+  "reference_only": {
+    "url": "https://www.watchcollectinglifestyle.com/home/insider-blancpain-jour-nuit-day-night-a-strikingly-beautiful-and-refined-timepiece-for-ladies",
+    "use": "Creative reference for layered day/night symbolism. No watch photograph, branded dial, numerals layout or ornamental artwork is included in the prototype assets."
+  },
+  "status": "Draft motion study, not a final image or production website."
+}

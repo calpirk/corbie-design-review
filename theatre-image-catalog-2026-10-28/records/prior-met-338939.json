@@ -1,0 +1,95 @@
+{
+  "objectID": 338939,
+  "isHighlight": false,
+  "accessionNumber": "37.165.71",
+  "accessionYear": "1937",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP810426.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP810426.jpg",
+  "additionalImages": [
+    "https://images.metmuseum.org/CRDImages/dp/original/DP810427.jpg"
+  ],
+  "constituents": [
+    {
+      "constituentID": 161967,
+      "role": "Artist",
+      "name": "Francesco Guardi",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+      "gender": ""
+    }
+  ],
+  "department": "Drawings and Prints",
+  "objectName": "Drawing",
+  "title": "Architectural Capriccio: Courtyard of a Palace",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Francesco Guardi",
+  "artistDisplayBio": "Italian, Venice 1712\u20131793 Venice",
+  "artistSuffix": "",
+  "artistAlphaSort": "Guardi, Francesco",
+  "artistNationality": "Italian",
+  "artistBeginDate": "1712",
+  "artistEndDate": "1793",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+  "objectDate": "1712\u201393",
+  "objectBeginDate": 1712,
+  "objectEndDate": 1793,
+  "medium": "Pen and brown ink, brush and brown wash, over red chalk",
+  "dimensions": "10 11/16 x 7 3/8in. (27.1 x 18.8cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 27.1,
+        "Width": 18.8
+      }
+    }
+  ],
+  "creditLine": "Rogers Fund, 1937",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Drawings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-09-27T04:50:39.59Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/338939",
+  "tags": [
+    {
+      "term": "Architecture",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300263552",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q12271"
+    },
+    {
+      "term": "Palaces",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300005734",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q16560"
+    },
+    {
+      "term": "Courtyards",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300004095",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q309250"
+    }
+  ],
+  "objectWikidata_URL": "",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

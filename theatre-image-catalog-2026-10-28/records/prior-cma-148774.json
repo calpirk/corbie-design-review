@@ -1,0 +1,207 @@
+{
+  "data": {
+    "id": 148774,
+    "accession_number": "1976.30",
+    "share_license_status": "CC0",
+    "tombstone": "Niagara Falls by Moonlight, probably 1856. Frederic Edwin Church (American, 1826\u20131900). Graphite and white gouache; sheet: 11.6 x 16.4 cm (4 9/16 x 6 7/16 in.). The Cleveland Museum of Art, Gift of Robert Arthur Mann, 1976.30",
+    "current_location": null,
+    "title": "Niagara Falls by Moonlight",
+    "creation_date": "probably 1856",
+    "creation_date_earliest": 1851,
+    "creation_date_latest": 1861,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "America"
+    ],
+    "technique": "graphite and white gouache",
+    "support_materials": [
+      {
+        "description": "brown wove paper",
+        "watermarks": []
+      }
+    ],
+    "department": "Drawings",
+    "collection": "DR - American 19th Century",
+    "type": "Drawing",
+    "measurements": "Sheet: 11.6 x 16.4 cm (4 9/16 x 6 7/16 in.)",
+    "dimensions": {
+      "sheet": {
+        "height": 0.116,
+        "height_inch": 4,
+        "height_inch_fraction": 0.5625,
+        "width": 0.164,
+        "width_inch": 6,
+        "width_inch_fraction": 0.4375
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "signed?, lower left, in graphite: f. church\r\n",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 302374,
+          "title": "Year in Review, 1976",
+          "description": "<i>Year in Review, 1976</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 1-March 6, 1977).",
+          "opening_date": "1977-02-01T05:00:00"
+        },
+        {
+          "id": 309860,
+          "title": "America Draws",
+          "description": "<i>America Draws</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 28, 1984-March 17, 1985).",
+          "opening_date": "1984-12-28T05:00:00"
+        },
+        {
+          "id": 191183,
+          "title": "American Drawings from the Permanent Collection",
+          "description": "<i>American Drawings from the Permanent Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 19-July 12, 1998).",
+          "opening_date": "1998-04-19T00:00:00"
+        },
+        {
+          "id": 192019,
+          "title": "Master Drawings from the Cleveland Museum of Art",
+          "description": "<i>Master Drawings from the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 27-October 17, 2000); The Morgan Library & Museum, New York, NY (May 23-August 19, 2001).",
+          "opening_date": "2000-08-27T00:00:00"
+        }
+      ],
+      "legacy": []
+    },
+    "provenance": [
+      {
+        "description": "Robert Arthur Mann [1947-2017], Miami, FL, gift to The Cleveland Museum of Art.",
+        "citations": [],
+        "footnotes": null,
+        "date": "?-1976",
+        "sortorder": null
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH.",
+        "citations": [],
+        "footnotes": null,
+        "date": "1976 -",
+        "sortorder": 2
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "In this drawing, Church manipulates negative space\u2014the space around and between his drawn subjects\u2014to suggest the forms of water and smoke.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "By the time Frederic E. Church executed this study of the Canadian side of Horseshoe Falls, Niagara Falls was already an icon of both American art and the American nation. Tourists and artists flocked to the falls in pursuit of a firsthand experience of the sublime, a sensation of elation and terror that portrayals of Niagara Falls had notorious difficulty reproducing. Church\u2019s celebrated oil painting <em>The Great Fall, Niagara</em> (1857) was one of the few depictions believed to capture the fall\u2019s power in pictorial terms. Like many artists of the Hudson River School, Church used drawings made on site to preserve the visual memory of the place he intended to paint in oil. Cleveland\u2019s sheet was possibly executed during one of the four trips he took to the falls in 1856 to prepare for <em>Niagara. </em>As a night scene, this study in light and shadow is unusual among Church\u2019s drawings. The dark brown paper enhances the image\u2019s nocturnal quality and allowed Church to render the atmospheric effects of mist and clouds. He used white gouache not only as a highlight, but also to define the luminous forms of water and vapor, crafting the landscape\u2019s substance out of negative and positive space. On the picture\u2019s left-hand side, Church represented the man-made Terrapin Tower in shadowy miniature, a testament to his interest in site-specific details\u2014and also, perhaps, a reminder of the diminutive status of human creation in the face of awesome natural forces.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q79929257"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-1976.30-niagara-falls-by-moo"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Foster, Carter E., \"Drawing Power\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 38 no. 04, April 1998",
+        "page_number": "Mentioned & reproduced: p. 4",
+        "url": "https://archive.org/details/CMAMM1998-04/page/4"
+      }
+    ],
+    "url": "https://clevelandart.org/art/1976.30",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_web.jpg",
+        "width": "1263",
+        "height": "823",
+        "filesize": "718106",
+        "filename": "1976.30_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_print.jpg",
+        "width": "3400",
+        "height": "2216",
+        "filesize": "5140633",
+        "filename": "1976.30_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_full.tif",
+        "width": "6148",
+        "height": "4007",
+        "filesize": "73937752",
+        "filename": "1976.30_full.tif"
+      }
+    },
+    "alternate_images": [
+      {
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_alt0_web.jpg",
+          "width": "1263",
+          "height": "820",
+          "filesize": "871154"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_alt0_print.jpg",
+          "width": "2048",
+          "height": "1330",
+          "filesize": "2353481"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.30/1976.30_alt0_full.tif",
+          "width": "2048",
+          "height": "1330",
+          "filesize": "8174364"
+        },
+        "annotation": ""
+      }
+    ],
+    "creditline": "Gift of Robert Arthur Mann",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 148774,
+    "creators": [
+      {
+        "id": 2697,
+        "description": "Frederic Edwin Church (American, 1826\u20131900)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1826",
+        "death_year": "1900",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "1976-05-07T00:00:00",
+    "sortable_date": 1851,
+    "date_added_to_oa": null,
+    "date_text": "probably 1856",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [
+      "Moonlight Landscape"
+    ],
+    "is_highlight": true,
+    "updated_at": "2026-05-29 07:38:28.289000"
+  }
+}

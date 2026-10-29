@@ -1,0 +1,240 @@
+{
+  "data": {
+    "id": 84371,
+    "accession_number": "2020.106",
+    "share_license_status": "CC0",
+    "tombstone": "The Pink Cloud, c. 1896. Henri-Edmond Cross (French, 1856\u20131910). Oil on canvas; unframed: 54.6 x 61 cm (21 1/2 x 24 in.); framed: 78.9 x 86 x 8.9 cm (31 1/16 x 33 7/8 x 3 1/2 in.). The Cleveland Museum of Art, Nancy F. and Joseph P. Keithley Collection Gift, 2020.106",
+    "current_location": null,
+    "title": "The Pink Cloud",
+    "creation_date": "c. 1896",
+    "creation_date_earliest": 1891,
+    "creation_date_latest": 1901,
+    "artists_tags": [
+      "male"
+    ],
+    "culture": [
+      "France, 19th century"
+    ],
+    "technique": "oil on canvas",
+    "support_materials": [],
+    "department": "Modern European Painting and Sculpture",
+    "collection": "Mod Euro - Painting 1800-1960",
+    "type": "Painting",
+    "measurements": "Unframed: 54.6 x 61 cm (21 1/2 x 24 in.); Framed: 78.9 x 86 x 8.9 cm (31 1/16 x 33 7/8 x 3 1/2 in.)",
+    "dimensions": {
+      "unframed": {
+        "height": 0.546,
+        "height_inch": 21,
+        "height_inch_fraction": 0.5,
+        "width": 0.61,
+        "width_inch": 24,
+        "width_inch_fraction": 0.0
+      },
+      "framed": {
+        "height": 0.789,
+        "height_inch": 31,
+        "height_inch_fraction": 0.0625,
+        "width": 0.86,
+        "width_inch": 33,
+        "width_inch_fraction": 0.875,
+        "depth": 0.089,
+        "depth_inch": 3,
+        "depth_inch_fraction": 0.5
+      }
+    },
+    "state_of_the_work": null,
+    "edition_of_the_work": null,
+    "copyright": null,
+    "inscriptions": [
+      {
+        "inscription": "Signed lower left: henri Edmond Cross",
+        "inscription_translation": null,
+        "inscription_remark": null,
+        "sortorder": null
+      }
+    ],
+    "exhibitions": {
+      "current": [
+        {
+          "id": 396695,
+          "title": "Impressionism to Modernism: The Keithley Collection",
+          "description": "<i>Impressionism to Modernism: The Keithley Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 11, 2022-January 8, 2023).",
+          "opening_date": "2022-09-11T04:00:00"
+        },
+        {
+          "id": 540653,
+          "title": "Painting the French Riviera",
+          "description": "<i>Painting the French Riviera</i>. Royal Academy of Arts, London, United Kingdom of Great Britain and Northern Ireland (October 2, 2026-January 31, 2027); The Cleveland Museum of Art, Cleveland, OH (organizer) (March 14-July 11, 2027).",
+          "opening_date": "2026-10-02T04:00:00"
+        }
+      ],
+      "legacy": [
+        {
+          "description": "<em>Societe des artistes independen</em>ts. Paris, France (April-May 1897).",
+          "opening_date": null
+        }
+      ]
+    },
+    "provenance": [
+      {
+        "description": "(Hotel Drouot, Paris, France,  posthumous Atelier Henri-Edmond Cross sale, October 28, 1921, lot 25, purchased from the artist's estate)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->Sold as \u201cNuages Rouges\u201d (Red Clouds), 60 x 54.&nbsp;</div>"
+        ],
+        "date": "October 28, 1921",
+        "sortorder": 1
+      },
+      {
+        "description": "(Christie's New York, NY, November 9, 2000, lot 160, sold to Harry Krampf)",
+        "citations": [],
+        "footnotes": [
+          "<div><!--block-->According to documentation provided by Galerie Hopkins-Custot in the curatorial file.&nbsp;</div>"
+        ],
+        "date": "November 9, 2000",
+        "sortorder": 2
+      },
+      {
+        "description": "(Harry Krampf Collection, Paris, France)",
+        "citations": [],
+        "footnotes": [],
+        "date": "2000-?",
+        "sortorder": 3
+      },
+      {
+        "description": "(Galerie Hopkins-Custot, Paris, France, sold to Nancy F. and Joseph P. Keithley)",
+        "citations": [],
+        "footnotes": [],
+        "date": null,
+        "sortorder": 4
+      },
+      {
+        "description": "Nancy F. and Joseph P. Keithley, Cleveland, OH,  given to the Cleveland Museum of Art",
+        "citations": [],
+        "footnotes": [],
+        "date": "-2020",
+        "sortorder": 5
+      },
+      {
+        "description": "The Cleveland Museum of Art, Cleveland, OH",
+        "citations": [],
+        "footnotes": [],
+        "date": "2020-",
+        "sortorder": 6
+      }
+    ],
+    "find_spot": null,
+    "related_works": [],
+    "former_accession_numbers": [],
+    "did_you_know": "Drawn to the beauty of the landscape and the climate that improved his chronic rheumatism from its state in Paris, Cross moved to the south of France where he made a home with his wife, Irma Clare, in Saint-Clair, a small village near the coast.",
+    "early_education_description": null,
+    "artlens_description": null,
+    "description": "Due to his diagnosis of persistent rheumatism, Henri-Edmond Cross left Paris in 1891 and settled in the seaside village of Saint-Clair on the Mediterranean coast where the climate was more temperate. He expressed his enthusiasm for the French Riveria to his mother, \u201cIn the distance, the blue silhouette of the Maures and the Est\u00e9rel\u2014I have enough here to keep me busy all of life\u2014I have just discovered happiness.\u201d Once he had settled in the south, Cross adopted the Neo-Impressionist technique of Pointillism\u2014applying paint in small dots or dashes of complementary colors that mix in the beholder\u2019s eye to create an intense sensation of color and light. Here, a spectacular cloud is illuminated by the sunset. A pair of cypress trees link the garden landscape below to the vivid sky above.",
+    "external_resources": {
+      "wikidata": [
+        "https://www.wikidata.org/wiki/Q87480863"
+      ],
+      "internet_archive": [
+        "https://archive.org/details/clevelandart-2020.106-the-rose-cloud",
+        "https://archive.org/details/clevelandart-2020.106-the-pink-cloud"
+      ]
+    },
+    "citations": [
+      {
+        "citation": "Compin, Isabelle. <em>H.E. Cross</em>. Paris, France: Quatre Chemins, 1964.",
+        "page_number": "Reproduced: p. 151, no. 60",
+        "url": null
+      },
+      {
+        "citation": "Mettais, Vale\u0301rie. <em>Histoire vivante de l'impressionnisme</em>. Paris : Hazan, 2021.",
+        "page_number": "Reproduced, P. 162",
+        "url": ""
+      },
+      {
+        "citation": "Robinson, William H. \"Modern European Painting.\" In <em>The Keithley Collection at the Cleveland Museum of Art, </em>edited by Heather Lemonedes Brown, 132-139, 142-149. Cleveland, OH: The Cleveland Museum of Art, 2022.",
+        "page_number": "Mentioned and reproduced: p. 132-133; Mentioned: p. 261",
+        "url": ""
+      },
+      {
+        "citation": "Brown, Heather Lemonedes. \u201cColor, Sensation, and Memory: Themes in the Keithleys\u2019 gift and promised gift.\u201d <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 3, 2022: Cover, 4-7.",
+        "page_number": "Reproduced and Mentioned: P. 5; Reproduced: P. 12.",
+        "url": ""
+      },
+      {
+        "citation": "\"Exhibitions: Transformative Gift.\" <em>Art &amp; Antiques </em>XLV, no. 10 (November 2022): 48-53.",
+        "page_number": "Reproduced: p. 49; Mentioned: p. 52",
+        "url": ""
+      },
+      {
+        "citation": "Cross, Henri Edmond. <em>Henri-Edmond Cross</em>. Lyon: Fage Editions, 2023.",
+        "page_number": "Reproduced: p. 34-35",
+        "url": ""
+      }
+    ],
+    "url": "https://clevelandart.org/art/2020.106",
+    "images": {
+      "annotation": null,
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.106/2020.106_web.jpg",
+        "width": "900",
+        "height": "800",
+        "filesize": "621939",
+        "filename": "2020.106_web.jpg"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.106/2020.106_print.jpg",
+        "width": "3400",
+        "height": "3023",
+        "filesize": "6885782",
+        "filename": "2020.106_print.jpg"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2020.106/2020.106_full.tif",
+        "width": "11431",
+        "height": "10162",
+        "filesize": "348515020",
+        "filename": "2020.106_full.tif"
+      }
+    },
+    "alternate_images": [],
+    "creditline": "Nancy F. and Joseph P. Keithley Collection Gift",
+    "image_credit": null,
+    "sketchfab_id": null,
+    "sketchfab_url": null,
+    "gallery_donor_text": null,
+    "athena_id": 84371,
+    "creators": [
+      {
+        "id": 28953,
+        "description": "Henri-Edmond Cross (French, 1856\u20131910)",
+        "extent": null,
+        "qualifier": null,
+        "role": "artist",
+        "biography": null,
+        "name_in_original_language": null,
+        "birth_year": "1856",
+        "death_year": "1910",
+        "use_in_caption": true,
+        "include_extent": false,
+        "weight": 1
+      }
+    ],
+    "legal_status": "accessioned",
+    "accession_date": "2020-03-02T00:00:00-05:00",
+    "sortable_date": 1891,
+    "date_added_to_oa": null,
+    "date_text": "c. 1896",
+    "collapse_artists": false,
+    "on_loan": false,
+    "recently_acquired": false,
+    "record_type": "object",
+    "conservation_statement": null,
+    "has_conservation_images": false,
+    "cover_accession_number": null,
+    "is_nazi_era_provenance": false,
+    "impression": null,
+    "alternate_titles": [],
+    "is_highlight": false,
+    "updated_at": "2026-10-28 11:11:56.852000"
+  }
+}
